@@ -1,0 +1,6 @@
+matplotlib
+re
+wordcloud 
+nltk
+requests
+bs4

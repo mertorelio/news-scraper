@@ -1,0 +1,1227 @@
+2023-12-03 00:10:28,133 - INFO -  Links on page 1 have been scraped
+2023-12-03 00:10:29,296 - INFO -  Links on page 2 have been scraped
+2023-12-03 00:10:30,269 - INFO -  Links on page 3 have been scraped
+2023-12-03 00:10:30,822 - INFO -  Links on page 4 have been scraped
+2023-12-03 00:10:31,041 - INFO -  Links on page 5 have been scraped
+2023-12-03 00:10:31,251 - INFO -  Links on page 6 have been scraped
+2023-12-03 00:10:31,505 - INFO -  Links on page 7 have been scraped
+2023-12-03 00:10:31,759 - INFO -  Links on page 8 have been scraped
+2023-12-03 00:10:31,978 - INFO -  Links on page 9 have been scraped
+2023-12-03 00:10:32,272 - INFO -  Links on page 10 have been scraped
+2023-12-03 00:10:32,515 - INFO -  Links on page 11 have been scraped
+2023-12-03 00:10:32,756 - INFO -  Links on page 12 have been scraped
+2023-12-03 00:10:33,174 - INFO -  Links on page 13 have been scraped
+2023-12-03 00:10:33,568 - INFO -  Links on page 14 have been scraped
+2023-12-03 00:10:33,820 - INFO -  Links on page 15 have been scraped
+2023-12-03 00:10:34,041 - INFO -  Links on page 16 have been scraped
+2023-12-03 00:10:34,399 - INFO -  Links on page 17 have been scraped
+2023-12-03 00:10:34,788 - INFO -  Links on page 18 have been scraped
+2023-12-03 00:10:35,156 - INFO -  Links on page 19 have been scraped
+2023-12-03 00:10:35,475 - INFO -  Links on page 20 have been scraped
+2023-12-03 00:10:35,758 - INFO -  Links on page 21 have been scraped
+2023-12-03 00:10:35,969 - INFO -  Links on page 22 have been scraped
+2023-12-03 00:10:36,222 - INFO -  Links on page 23 have been scraped
+2023-12-03 00:10:36,479 - INFO -  Links on page 24 have been scraped
+2023-12-03 00:10:36,738 - INFO -  Links on page 25 have been scraped
+2023-12-03 00:10:37,213 - INFO -  Links on page 26 have been scraped
+2023-12-03 00:10:37,454 - INFO -  Links on page 27 have been scraped
+2023-12-03 00:10:37,750 - INFO -  Links on page 28 have been scraped
+2023-12-03 00:10:38,107 - INFO -  Links on page 29 have been scraped
+2023-12-03 00:10:38,325 - INFO -  Links on page 30 have been scraped
+2023-12-03 00:10:38,651 - INFO -  Links on page 31 have been scraped
+2023-12-03 00:10:38,949 - INFO -  Links on page 32 have been scraped
+2023-12-03 00:10:39,199 - INFO -  Links on page 33 have been scraped
+2023-12-03 00:10:39,550 - INFO -  Links on page 34 have been scraped
+2023-12-03 00:10:39,788 - INFO -  Links on page 35 have been scraped
+2023-12-03 00:10:39,991 - INFO -  Links on page 36 have been scraped
+2023-12-03 00:10:40,271 - INFO -  Links on page 37 have been scraped
+2023-12-03 00:10:40,525 - INFO -  Links on page 38 have been scraped
+2023-12-03 00:10:40,743 - INFO -  Links on page 39 have been scraped
+2023-12-03 00:10:41,066 - INFO -  Links on page 40 have been scraped
+2023-12-03 00:10:41,405 - INFO -  Links on page 41 have been scraped
+2023-12-03 00:10:41,650 - INFO -  Links on page 42 have been scraped
+2023-12-03 00:10:41,905 - INFO -  Links on page 43 have been scraped
+2023-12-03 00:10:43,189 - INFO -  Links on page 44 have been scraped
+2023-12-03 00:10:43,455 - INFO -  Links on page 45 have been scraped
+2023-12-03 00:10:43,683 - INFO -  Links on page 46 have been scraped
+2023-12-03 00:10:43,968 - INFO -  Links on page 47 have been scraped
+2023-12-03 00:10:44,229 - INFO -  Links on page 48 have been scraped
+2023-12-03 00:10:44,455 - INFO -  Links on page 49 have been scraped
+2023-12-03 00:10:44,683 - INFO -  Links on page 50 have been scraped
+2023-12-03 00:10:45,221 - INFO -  Data on https://turkishnetworktimes.com/esenyurttaki-tekel-baskiniyla-ilgili-avukattan-carpici-iddia/ was scraped
+2023-12-03 00:10:45,256 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d551db3cf1cd4f56510') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d551db3cf1cd4f56510') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9d551db3cf1cd4f56510')}}
+2023-12-03 00:10:45,257 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:10:51,325 - INFO -  Data on https://turkishnetworktimes.com/hirsizlik-suphelisi-saklandigi-dolapta-yakalandi/ was scraped
+2023-12-03 00:10:51,332 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d5b1db3cf1cd4f56512') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d5b1db3cf1cd4f56512') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9d5b1db3cf1cd4f56512')}}
+2023-12-03 00:10:51,332 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:10:56,655 - INFO -  Data on https://turkishnetworktimes.com/kargo-dolandiriciligi-operasyonunda-gozaltina-alinan-supheliler-adliyede/ was scraped
+2023-12-03 00:10:56,663 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d601db3cf1cd4f56514') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d601db3cf1cd4f56514') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9d601db3cf1cd4f56514')}}
+2023-12-03 00:10:56,663 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:11:01,944 - INFO -  Data on https://turkishnetworktimes.com/2-kisinin-oldugu-kazada-otomobili-kullanan-alkollu-surucu-de-hayatini-kaybetti/ was scraped
+2023-12-03 00:11:01,950 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d651db3cf1cd4f56516') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d651db3cf1cd4f56516') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9d651db3cf1cd4f56516')}}
+2023-12-03 00:11:01,950 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:11:08,222 - INFO -  Data on https://turkishnetworktimes.com/kacak-7-komur-ocagi-patlayici-kullanilarak-imha-edildi/ was scraped
+2023-12-03 00:11:08,229 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d6c1db3cf1cd4f56518') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9d6c1db3cf1cd4f56518') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9d6c1db3cf1cd4f56518')}}
+2023-12-03 00:11:08,229 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:14:10,991 - INFO -  Links on page 1 have been scraped
+2023-12-03 00:14:11,673 - INFO -  Links on page 2 have been scraped
+2023-12-03 00:14:11,913 - INFO -  Links on page 3 have been scraped
+2023-12-03 00:14:12,255 - INFO -  Links on page 4 have been scraped
+2023-12-03 00:14:12,458 - INFO -  Links on page 5 have been scraped
+2023-12-03 00:14:12,697 - INFO -  Links on page 6 have been scraped
+2023-12-03 00:14:12,932 - INFO -  Links on page 7 have been scraped
+2023-12-03 00:14:13,141 - INFO -  Links on page 8 have been scraped
+2023-12-03 00:14:13,421 - INFO -  Links on page 9 have been scraped
+2023-12-03 00:14:13,633 - INFO -  Links on page 10 have been scraped
+2023-12-03 00:14:13,864 - INFO -  Links on page 11 have been scraped
+2023-12-03 00:14:14,089 - INFO -  Links on page 12 have been scraped
+2023-12-03 00:14:14,438 - INFO -  Links on page 13 have been scraped
+2023-12-03 00:14:14,735 - INFO -  Links on page 14 have been scraped
+2023-12-03 00:14:14,943 - INFO -  Links on page 15 have been scraped
+2023-12-03 00:14:15,126 - INFO -  Links on page 16 have been scraped
+2023-12-03 00:14:15,330 - INFO -  Links on page 17 have been scraped
+2023-12-03 00:14:15,515 - INFO -  Links on page 18 have been scraped
+2023-12-03 00:14:15,705 - INFO -  Links on page 19 have been scraped
+2023-12-03 00:14:15,916 - INFO -  Links on page 20 have been scraped
+2023-12-03 00:14:16,162 - INFO -  Links on page 21 have been scraped
+2023-12-03 00:14:16,423 - INFO -  Links on page 22 have been scraped
+2023-12-03 00:14:16,604 - INFO -  Links on page 23 have been scraped
+2023-12-03 00:14:16,816 - INFO -  Links on page 24 have been scraped
+2023-12-03 00:14:17,016 - INFO -  Links on page 25 have been scraped
+2023-12-03 00:14:17,347 - INFO -  Links on page 26 have been scraped
+2023-12-03 00:14:17,540 - INFO -  Links on page 27 have been scraped
+2023-12-03 00:14:17,765 - INFO -  Links on page 28 have been scraped
+2023-12-03 00:14:17,984 - INFO -  Links on page 29 have been scraped
+2023-12-03 00:14:18,227 - INFO -  Links on page 30 have been scraped
+2023-12-03 00:14:18,613 - INFO -  Links on page 31 have been scraped
+2023-12-03 00:14:18,812 - INFO -  Links on page 32 have been scraped
+2023-12-03 00:14:19,163 - INFO -  Links on page 33 have been scraped
+2023-12-03 00:14:19,389 - INFO -  Links on page 34 have been scraped
+2023-12-03 00:14:19,687 - INFO -  Links on page 35 have been scraped
+2023-12-03 00:14:19,885 - INFO -  Links on page 36 have been scraped
+2023-12-03 00:14:20,095 - INFO -  Links on page 37 have been scraped
+2023-12-03 00:14:20,433 - INFO -  Links on page 38 have been scraped
+2023-12-03 00:14:20,622 - INFO -  Links on page 39 have been scraped
+2023-12-03 00:14:20,932 - INFO -  Links on page 40 have been scraped
+2023-12-03 00:14:21,216 - INFO -  Links on page 41 have been scraped
+2023-12-03 00:14:21,428 - INFO -  Links on page 42 have been scraped
+2023-12-03 00:14:21,634 - INFO -  Links on page 43 have been scraped
+2023-12-03 00:14:21,861 - INFO -  Links on page 44 have been scraped
+2023-12-03 00:14:22,076 - INFO -  Links on page 45 have been scraped
+2023-12-03 00:14:22,302 - INFO -  Links on page 46 have been scraped
+2023-12-03 00:14:22,511 - INFO -  Links on page 47 have been scraped
+2023-12-03 00:14:22,734 - INFO -  Links on page 48 have been scraped
+2023-12-03 00:14:22,933 - INFO -  Links on page 49 have been scraped
+2023-12-03 00:14:23,199 - INFO -  Links on page 50 have been scraped
+2023-12-03 00:14:23,720 - INFO -  Data on https://turkishnetworktimes.com/esenyurttaki-tekel-baskiniyla-ilgili-avukattan-carpici-iddia/ was scraped
+2023-12-03 00:14:23,730 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e2fa46ffd85c5eb4b13') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e2fa46ffd85c5eb4b13') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e2fa46ffd85c5eb4b13')}}
+2023-12-03 00:14:23,730 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:14:29,019 - INFO -  Data on https://turkishnetworktimes.com/hirsizlik-suphelisi-saklandigi-dolapta-yakalandi/ was scraped
+2023-12-03 00:14:29,025 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e35a46ffd85c5eb4b15') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e35a46ffd85c5eb4b15') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e35a46ffd85c5eb4b15')}}
+2023-12-03 00:14:29,026 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:14:35,127 - INFO -  Data on https://turkishnetworktimes.com/kargo-dolandiriciligi-operasyonunda-gozaltina-alinan-supheliler-adliyede/ was scraped
+2023-12-03 00:14:35,133 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e3ba46ffd85c5eb4b17') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e3ba46ffd85c5eb4b17') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e3ba46ffd85c5eb4b17')}}
+2023-12-03 00:14:35,134 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:14:40,455 - INFO -  Data on https://turkishnetworktimes.com/2-kisinin-oldugu-kazada-otomobili-kullanan-alkollu-surucu-de-hayatini-kaybetti/ was scraped
+2023-12-03 00:14:40,461 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e40a46ffd85c5eb4b19') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e40a46ffd85c5eb4b19') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e40a46ffd85c5eb4b19')}}
+2023-12-03 00:14:40,462 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:14:46,007 - INFO -  Data on https://turkishnetworktimes.com/kacak-7-komur-ocagi-patlayici-kullanilarak-imha-edildi/ was scraped
+2023-12-03 00:14:46,013 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e46a46ffd85c5eb4b1b') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e46a46ffd85c5eb4b1b') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e46a46ffd85c5eb4b1b')}}
+2023-12-03 00:14:46,014 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:14:51,836 - INFO -  Data on https://turkishnetworktimes.com/devrilen-agaclar-nedeniyle-ziyarete-kapatilan-golcuk-tabiat-parki-acildi/ was scraped
+2023-12-03 00:14:51,843 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e4ba46ffd85c5eb4b1d') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e4ba46ffd85c5eb4b1d') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e4ba46ffd85c5eb4b1d')}}
+2023-12-03 00:14:51,843 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:14:57,136 - INFO -  Data on https://turkishnetworktimes.com/tahir-elci-davasinda-mahkeme-yeniden-kesif-talebini-reddetti/ was scraped
+2023-12-03 00:14:57,141 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e51a46ffd85c5eb4b1f') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e51a46ffd85c5eb4b1f') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e51a46ffd85c5eb4b1f')}}
+2023-12-03 00:14:57,141 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:15:02,383 - INFO -  Data on https://turkishnetworktimes.com/is-yerinin-onunu-kapatan-otomobili-forkliftle-kaldirdi/ was scraped
+2023-12-03 00:15:02,389 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e56a46ffd85c5eb4b21') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e56a46ffd85c5eb4b21') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e56a46ffd85c5eb4b21')}}
+2023-12-03 00:15:02,389 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:15:07,700 - INFO -  Data on https://turkishnetworktimes.com/kiz-cocugu-okumaz-diye-okula-gonderilmedi-60-yasinda-okuma-yazma-ogrendi/ was scraped
+2023-12-03 00:15:07,707 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e5ba46ffd85c5eb4b23') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e5ba46ffd85c5eb4b23') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e5ba46ffd85c5eb4b23')}}
+2023-12-03 00:15:07,707 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:15:12,965 - INFO -  Data on https://turkishnetworktimes.com/polat-cifti-sorusturmasinda-sampiyonlar-ligine-yurt-disi-cikis-yasagi-talebi/ was scraped
+2023-12-03 00:15:12,971 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e60a46ffd85c5eb4b25') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e60a46ffd85c5eb4b25') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e60a46ffd85c5eb4b25')}}
+2023-12-03 00:15:12,971 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:15:18,446 - INFO -  Data on https://turkishnetworktimes.com/kamyonun-carptigi-10-yasindaki-sudem-yaralandi/ was scraped
+2023-12-03 00:15:18,452 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e66a46ffd85c5eb4b27') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e66a46ffd85c5eb4b27') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e66a46ffd85c5eb4b27')}}
+2023-12-03 00:15:18,452 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:15:27,702 - INFO -  Data on https://turkishnetworktimes.com/beylikduzunde-3-katli-binanin-catisi-alev-alev-yandi/ was scraped
+2023-12-03 00:15:27,711 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e6fa46ffd85c5eb4b29') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e6fa46ffd85c5eb4b29') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e6fa46ffd85c5eb4b29')}}
+2023-12-03 00:15:27,711 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:15:35,459 - INFO -  Data on https://turkishnetworktimes.com/rusyadan-gazzeye-15-tonluk-insani-yardim/ was scraped
+2023-12-03 00:15:35,465 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e77a46ffd85c5eb4b2b') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e77a46ffd85c5eb4b2b') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e77a46ffd85c5eb4b2b')}}
+2023-12-03 00:15:35,466 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:15:44,355 - INFO -  Data on https://turkishnetworktimes.com/burdurda-kayip-avci-araniyor/ was scraped
+2023-12-03 00:15:44,362 - ERROR - An error occured: E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e80a46ffd85c5eb4b2d') }, full error: {'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: mert_bozkurt.news index: _id_ dup key: { _id: ObjectId('656b9e80a46ffd85c5eb4b2d') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('656b9e80a46ffd85c5eb4b2d')}}
+2023-12-03 00:15:44,362 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:17:23,782 - INFO -  Links on page 1 have been scraped
+2023-12-03 00:17:24,324 - INFO -  Links on page 2 have been scraped
+2023-12-03 00:17:27,322 - INFO -  Links on page 3 have been scraped
+2023-12-03 00:17:30,984 - INFO -  Links on page 4 have been scraped
+2023-12-03 00:17:34,072 - INFO -  Links on page 5 have been scraped
+2023-12-03 00:17:37,734 - INFO -  Links on page 6 have been scraped
+2023-12-03 00:17:40,976 - INFO -  Links on page 7 have been scraped
+2023-12-03 00:17:44,170 - INFO -  Links on page 8 have been scraped
+2023-12-03 00:17:47,157 - INFO -  Links on page 9 have been scraped
+2023-12-03 00:17:50,959 - INFO -  Links on page 10 have been scraped
+2023-12-03 00:17:53,836 - INFO -  Links on page 11 have been scraped
+2023-12-03 00:17:57,255 - INFO -  Links on page 12 have been scraped
+2023-12-03 00:18:00,408 - INFO -  Links on page 13 have been scraped
+2023-12-03 00:18:03,363 - INFO -  Links on page 14 have been scraped
+2023-12-03 00:18:06,612 - INFO -  Links on page 15 have been scraped
+2023-12-03 00:18:09,956 - INFO -  Links on page 16 have been scraped
+2023-12-03 00:18:13,566 - INFO -  Links on page 17 have been scraped
+2023-12-03 00:18:17,309 - INFO -  Links on page 18 have been scraped
+2023-12-03 00:18:20,543 - INFO -  Links on page 19 have been scraped
+2023-12-03 00:18:23,905 - INFO -  Links on page 20 have been scraped
+2023-12-03 00:18:27,094 - INFO -  Links on page 21 have been scraped
+2023-12-03 00:18:30,577 - INFO -  Links on page 22 have been scraped
+2023-12-03 00:18:34,172 - INFO -  Links on page 23 have been scraped
+2023-12-03 00:18:37,532 - INFO -  Links on page 24 have been scraped
+2023-12-03 00:18:41,882 - INFO -  Links on page 25 have been scraped
+2023-12-03 00:18:47,110 - INFO -  Links on page 26 have been scraped
+2023-12-03 00:18:50,742 - INFO -  Links on page 27 have been scraped
+2023-12-03 00:18:53,808 - INFO -  Links on page 28 have been scraped
+2023-12-03 00:18:56,924 - INFO -  Links on page 29 have been scraped
+2023-12-03 00:19:00,574 - INFO -  Links on page 30 have been scraped
+2023-12-03 00:19:03,532 - INFO -  Links on page 31 have been scraped
+2023-12-03 00:19:07,009 - INFO -  Links on page 32 have been scraped
+2023-12-03 00:19:10,327 - INFO -  Links on page 33 have been scraped
+2023-12-03 00:19:13,492 - INFO -  Links on page 34 have been scraped
+2023-12-03 00:19:16,802 - INFO -  Links on page 35 have been scraped
+2023-12-03 00:19:20,048 - INFO -  Links on page 36 have been scraped
+2023-12-03 00:19:23,896 - INFO -  Links on page 37 have been scraped
+2023-12-03 00:19:26,825 - INFO -  Links on page 38 have been scraped
+2023-12-03 00:19:29,714 - INFO -  Links on page 39 have been scraped
+2023-12-03 00:19:33,056 - INFO -  Links on page 40 have been scraped
+2023-12-03 00:19:36,357 - INFO -  Links on page 41 have been scraped
+2023-12-03 00:19:39,936 - INFO -  Links on page 42 have been scraped
+2023-12-03 00:19:43,880 - INFO -  Links on page 43 have been scraped
+2023-12-03 00:19:47,172 - INFO -  Links on page 44 have been scraped
+2023-12-03 00:19:50,954 - INFO -  Links on page 45 have been scraped
+2023-12-03 00:19:54,447 - INFO -  Links on page 46 have been scraped
+2023-12-03 00:19:57,869 - INFO -  Links on page 47 have been scraped
+2023-12-03 00:20:01,018 - INFO -  Links on page 48 have been scraped
+2023-12-03 00:20:04,428 - INFO -  Links on page 49 have been scraped
+2023-12-03 00:20:10,812 - INFO -  Links on page 50 have been scraped
+2023-12-03 00:20:15,275 - INFO -  Data on https://turkishnetworktimes.com/can-gurzap-yarin-topraga-verilecek/ was scraped
+2023-12-03 00:20:15,285 - INFO -  Thread 1is completed in 0.2431793212890625 second.
+2023-12-03 00:20:15,547 - INFO -  Data on https://turkishnetworktimes.com/esenyurttaki-tekel-baskiniyla-ilgili-avukattan-carpici-iddia/ was scraped
+2023-12-03 00:20:15,554 - INFO -  Thread 2is completed in 0.5122144222259521 second.
+2023-12-03 00:20:15,866 - INFO -  Data on https://turkishnetworktimes.com/bakan-uraloglu-afet-ne-tur-olursa-olsun-biz-hicbirinde-insanimizi-yalniz-birakmadik/ was scraped
+2023-12-03 00:20:15,874 - INFO -  Thread 3is completed in 0.8320717811584473 second.
+2023-12-03 00:20:16,093 - INFO -  Data on https://turkishnetworktimes.com/binmek-istedigi-halk-otobusunun-altinda-kalan-kadin-oldu/ was scraped
+2023-12-03 00:20:16,100 - INFO -  Thread 4is completed in 1.0582993030548096 second.
+2023-12-03 00:20:16,316 - INFO -  Data on https://turkishnetworktimes.com/taksideki-savci-tacizi-onledi-supheliye-17-yil-hapis-talebi/ was scraped
+2023-12-03 00:20:16,321 - INFO -  Thread 5is completed in 1.2797033786773682 second.
+2023-12-03 00:20:16,540 - INFO -  Data on https://turkishnetworktimes.com/msb-saldiri-hazirligindaki-6-terorist-etkisiz-hale-getirildi/ was scraped
+2023-12-03 00:20:16,546 - INFO -  Thread 6is completed in 1.5048277378082275 second.
+2023-12-03 00:20:16,866 - INFO -  Data on https://turkishnetworktimes.com/tunceli-merkezli-3-ilde-operasyon-100-milyon-liralik-vurgun-yapan-sebeke-cokertildi/ was scraped
+2023-12-03 00:20:16,874 - INFO -  Thread 7is completed in 1.8326537609100342 second.
+2023-12-03 00:20:17,156 - INFO -  Data on https://turkishnetworktimes.com/16-yasindaki-kivancin-darbedilip-oldurulmesinde-5-cocuga-hapis-istemi/ was scraped
+2023-12-03 00:20:17,162 - INFO -  Thread 8is completed in 2.1209194660186768 second.
+2023-12-03 00:20:17,389 - INFO -  Data on https://turkishnetworktimes.com/52-yil-kesinlesmis-hapis-cezasiyla-aranan-firari-yakalandi/ was scraped
+2023-12-03 00:20:17,396 - INFO -  Thread 9is completed in 2.3543739318847656 second.
+2023-12-03 00:20:17,780 - INFO -  Data on https://turkishnetworktimes.com/eski-sevgilisinin-tabancayla-kapisina-dayanan-supheli-serbest-kaldi/ was scraped
+2023-12-03 00:20:17,786 - INFO -  Thread 10is completed in 2.7445311546325684 second.
+2023-12-03 00:20:18,086 - INFO -  Data on https://turkishnetworktimes.com/kgmnin-bedelsiz-kamulastirmasina-aym-mulkiyet-hakki-ihlali-dedi/ was scraped
+2023-12-03 00:20:18,094 - INFO -  Thread 11is completed in 3.0519187450408936 second.
+2023-12-03 00:20:18,290 - INFO -  Data on https://turkishnetworktimes.com/barakadaki-yanginda-yasamini-yitirdi/ was scraped
+2023-12-03 00:20:18,296 - INFO -  Thread 12is completed in 3.2543609142303467 second.
+2023-12-03 00:20:18,509 - INFO -  Data on https://turkishnetworktimes.com/izmir-merkezli-5-ilde-10-milyon-liralik-dolandiricilik-yapan-suphelilere-operasyon-65-gozalti/ was scraped
+2023-12-03 00:20:18,516 - INFO -  Thread 13is completed in 3.4741976261138916 second.
+2023-12-03 00:20:18,778 - INFO -  Data on https://turkishnetworktimes.com/istanbulda-saglik-temali-liderler-zirvesi/ was scraped
+2023-12-03 00:20:18,784 - INFO -  Thread 14is completed in 3.7426106929779053 second.
+2023-12-03 00:20:19,017 - INFO -  Data on https://turkishnetworktimes.com/eski-denizlispor-baskani-yol-verme-kavgasinda-bicaklandi/ was scraped
+2023-12-03 00:20:19,024 - INFO -  Thread 15is completed in 3.981994867324829 second.
+2023-12-03 00:20:19,280 - INFO -  Data on https://turkishnetworktimes.com/azerbaycanli-kadinlar-mayin-temizliyor/ was scraped
+2023-12-03 00:20:19,286 - INFO -  Thread 16is completed in 4.244885683059692 second.
+2023-12-03 00:20:19,485 - INFO -  Data on https://turkishnetworktimes.com/pentagondan-kuzey-koreye-yanit-internette-beyaz-saray-ve-pentagonun-bircok-fotografi-var/ was scraped
+2023-12-03 00:20:19,492 - INFO -  Thread 17is completed in 4.449937105178833 second.
+2023-12-03 00:20:19,831 - INFO -  Data on https://turkishnetworktimes.com/ankarada-taksiciyi-dovup-gasbeden-supheli-yakalandi/ was scraped
+2023-12-03 00:20:19,837 - INFO -  Thread 18is completed in 4.7952024936676025 second.
+2023-12-03 00:20:20,092 - INFO -  Data on https://turkishnetworktimes.com/izmitte-otomobil-ile-belediye-otobusu-carpisti-1-olu-2-yarali/ was scraped
+2023-12-03 00:20:20,098 - INFO -  Thread 19is completed in 5.056641578674316 second.
+2023-12-03 00:20:20,344 - INFO -  Data on https://turkishnetworktimes.com/bakan-yerlikaya-kahramanlar-operasyonlarinda-88-supheli-gozaltina-alindi/ was scraped
+2023-12-03 00:20:20,350 - INFO -  Thread 20is completed in 5.308441638946533 second.
+2023-12-03 00:20:20,586 - INFO -  Data on https://turkishnetworktimes.com/maltepede-kahve-makineleri-uretimi-yapilan-is-yerinde-yangin/ was scraped
+2023-12-03 00:20:20,591 - INFO -  Thread 21is completed in 5.549391508102417 second.
+2023-12-03 00:20:20,825 - INFO -  Data on https://turkishnetworktimes.com/sislide-yolda-borclusunu-gorunce-otomobilinin-uzerine-atladi/ was scraped
+2023-12-03 00:20:20,830 - INFO -  Thread 22is completed in 5.788903474807739 second.
+2023-12-03 00:20:21,074 - INFO -  Data on https://turkishnetworktimes.com/secil-erzan-olayinda-denizbank-yetkilileri-hakkinda-suc-duyurusu/ was scraped
+2023-12-03 00:20:21,080 - INFO -  Thread 23is completed in 6.038251161575317 second.
+2023-12-03 00:20:21,407 - INFO -  Data on https://turkishnetworktimes.com/odun-toplamaya-gittigi-sahilde-kaybolan-kadini-arama-calismalarinda-6nci-gun/ was scraped
+2023-12-03 00:20:21,413 - INFO -  Thread 24is completed in 6.371533155441284 second.
+2023-12-03 00:20:21,653 - INFO -  Data on https://turkishnetworktimes.com/maltepede-motosikletli-2-kisiden-taksi-duragina-kursun-yagmuru/ was scraped
+2023-12-03 00:20:21,658 - INFO -  Thread 25is completed in 6.6167402267456055 second.
+2023-12-03 00:20:21,659 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:20:27,442 - INFO -  Data on https://turkishnetworktimes.com/eyupsultanda-uyusturucu-serasina-cevrilen-villaya-baskin/ was scraped
+2023-12-03 00:20:27,450 - INFO -  Thread 26is completed in 0.7864892482757568 second.
+2023-12-03 00:20:27,708 - INFO -  Data on https://turkishnetworktimes.com/hirsizlik-suphelisi-saklandigi-dolapta-yakalandi/ was scraped
+2023-12-03 00:20:27,714 - INFO -  Thread 27is completed in 1.0503172874450684 second.
+2023-12-03 00:20:27,945 - INFO -  Data on https://turkishnetworktimes.com/japonya-savunma-bakanligi-dusen-abd-askeri-ucagina-iliskin-detaylari-paylasti/ was scraped
+2023-12-03 00:20:27,952 - INFO -  Thread 28is completed in 1.2882046699523926 second.
+2023-12-03 00:20:28,187 - INFO -  Data on https://turkishnetworktimes.com/polise-mukavemette-bulunan-surucuye-vatandaslar-tepki-gosterince-arbede-cikti-valilik-aciklama-yapti/ was scraped
+2023-12-03 00:20:28,193 - INFO -  Thread 29is completed in 1.5288560390472412 second.
+2023-12-03 00:20:28,541 - INFO -  Data on https://turkishnetworktimes.com/polisi-alarma-geciren-ihbarda-tabancalar-oyuncak-cikti/ was scraped
+2023-12-03 00:20:28,547 - INFO -  Thread 30is completed in 1.8830926418304443 second.
+2023-12-03 00:20:28,790 - INFO -  Data on https://turkishnetworktimes.com/muhtar-husumetli-oldugu-muhtari-ve-yanindaki-esnafi-tabancayla-agir-yaraladi/ was scraped
+2023-12-03 00:20:28,796 - INFO -  Thread 31is completed in 2.1324596405029297 second.
+2023-12-03 00:20:29,018 - INFO -  Data on https://turkishnetworktimes.com/kadikoyde-ust-gecitten-dusen-vatandasi-suruculer-kurtardi/ was scraped
+2023-12-03 00:20:29,024 - INFO -  Thread 32is completed in 2.3598554134368896 second.
+2023-12-03 00:20:29,347 - INFO -  Data on https://turkishnetworktimes.com/bursada-49-firari-hukumlu-yakalandi/ was scraped
+2023-12-03 00:20:29,354 - INFO -  Thread 33is completed in 2.6900787353515625 second.
+2023-12-03 00:20:29,566 - INFO -  Data on https://turkishnetworktimes.com/otomobil-yakit-dolumu-sirasinda-alev-aldi-baba-kiz-son-anda-kurtuldu-yangin-kamerada/ was scraped
+2023-12-03 00:20:29,571 - INFO -  Thread 34is completed in 2.9075896739959717 second.
+2023-12-03 00:20:29,834 - INFO -  Data on https://turkishnetworktimes.com/alibeykoy-barajinda-kadinin-olumu/ was scraped
+2023-12-03 00:20:29,839 - INFO -  Thread 35is completed in 3.175612211227417 second.
+2023-12-03 00:20:30,086 - INFO -  Data on https://turkishnetworktimes.com/televizyon-hirsizligi-kamerada/ was scraped
+2023-12-03 00:20:30,092 - INFO -  Thread 36is completed in 3.4279510974884033 second.
+2023-12-03 00:20:30,378 - INFO -  Data on https://turkishnetworktimes.com/mihracenin-oldugu-kazada-iddianame-kabul-edildi-bilirkisi-raporunda-surucu-tali-kusurlu-denildi/ was scraped
+2023-12-03 00:20:30,385 - INFO -  Thread 37is completed in 3.721104383468628 second.
+2023-12-03 00:20:30,637 - INFO -  Data on https://turkishnetworktimes.com/sosyal-medyanin-sampiyonlar-liginin-tum-mal-varliklarina-el-konuldu/ was scraped
+2023-12-03 00:20:30,642 - INFO -  Thread 38is completed in 3.978020668029785 second.
+2023-12-03 00:20:30,862 - INFO -  Data on https://turkishnetworktimes.com/fatihte-otomobilin-motosikletli-kuryeye-carpma-ani-kameraya-yansidi/ was scraped
+2023-12-03 00:20:30,869 - INFO -  Thread 39is completed in 4.205127000808716 second.
+2023-12-03 00:20:31,104 - INFO -  Data on https://turkishnetworktimes.com/diyarbakirda-cocuklarin-kavgasina-aileleri-de-karisti-12-yarali/ was scraped
+2023-12-03 00:20:31,109 - INFO -  Thread 40is completed in 4.445279598236084 second.
+2023-12-03 00:20:31,663 - INFO -  Data on https://turkishnetworktimes.com/narkoguc-38-operasyonu-tamamlandi-65-ton-uyusturucu-ele-gecirildi-391-supheli-yakalandi/ was scraped
+2023-12-03 00:20:31,668 - INFO -  Thread 41is completed in 5.004678964614868 second.
+2023-12-03 00:20:31,959 - INFO -  Data on https://turkishnetworktimes.com/kirmizi-isikta-bekleyen-uzman-cavuslarin-otomobiline-otomobil-carpti-6-yarali/ was scraped
+2023-12-03 00:20:31,985 - INFO -  Thread 42is completed in 5.320828437805176 second.
+2023-12-03 00:20:32,367 - INFO -  Data on https://turkishnetworktimes.com/cerkezkoyde-3-kisinin-yaralandigi-silahli-saldirida-5-tutuklama/ was scraped
+2023-12-03 00:20:32,374 - INFO -  Thread 43is completed in 5.7106077671051025 second.
+2023-12-03 00:20:32,605 - INFO -  Data on https://turkishnetworktimes.com/esinin-husumetlileri-tarafindan-olduren-ipekin-davasinda-4-saniga-agirlastirilmis-muebbet/ was scraped
+2023-12-03 00:20:32,616 - INFO -  Thread 44is completed in 5.952529191970825 second.
+2023-12-03 00:20:32,856 - INFO -  Data on https://turkishnetworktimes.com/ambarli-limani-ve-gurbulak-gumruk-kapisinda-uyusturucu-operasyonu/ was scraped
+2023-12-03 00:20:32,863 - INFO -  Thread 45is completed in 6.199637174606323 second.
+2023-12-03 00:20:33,140 - INFO -  Data on https://turkishnetworktimes.com/canakkalede-otomobil-ters-dondu-1-olu-3-yarali/ was scraped
+2023-12-03 00:20:33,147 - INFO -  Thread 46is completed in 6.483694553375244 second.
+2023-12-03 00:20:33,416 - INFO -  Data on https://turkishnetworktimes.com/bursada-silahli-yumruklu-tekmeli-borc-kavgasi-2-yarali-1-gozalti/ was scraped
+2023-12-03 00:20:33,423 - INFO -  Thread 47is completed in 6.759216070175171 second.
+2023-12-03 00:20:33,654 - INFO -  Data on https://turkishnetworktimes.com/uvey-agabeyinin-aracini-yakip-kursun-yagdirdi/ was scraped
+2023-12-03 00:20:33,659 - INFO -  Thread 48is completed in 6.9948906898498535 second.
+2023-12-03 00:20:33,958 - INFO -  Data on https://turkishnetworktimes.com/esi-ve-2-kisinin-cinayet-sanigi-elimdeki-tufekle-hedef-gozetmeksizin-ates-ettim/ was scraped
+2023-12-03 00:20:33,964 - INFO -  Thread 49is completed in 7.299907684326172 second.
+2023-12-03 00:20:34,145 - INFO -  Data on https://turkishnetworktimes.com/22-ilde-29-suca-karisan-hukumlu-yakalandi/ was scraped
+2023-12-03 00:20:34,152 - INFO -  Thread 50is completed in 7.48802638053894 second.
+2023-12-03 00:20:34,152 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:20:39,431 - INFO -  Data on https://turkishnetworktimes.com/yasi-kucuk-2-cocugun-kaldigi-tespit-edilen-yurtta-sube-mudurune-yumruklu-saldiri/ was scraped
+2023-12-03 00:20:39,437 - INFO -  Thread 51is completed in 0.28321027755737305 second.
+2023-12-03 00:20:39,714 - INFO -  Data on https://turkishnetworktimes.com/kargo-dolandiriciligi-operasyonunda-gozaltina-alinan-supheliler-adliyede/ was scraped
+2023-12-03 00:20:39,721 - INFO -  Thread 52is completed in 0.5674669742584229 second.
+2023-12-03 00:20:39,943 - INFO -  Data on https://turkishnetworktimes.com/uskudarda-tarihi-kosk-icerisindeki-marangozhanede-yangin/ was scraped
+2023-12-03 00:20:39,949 - INFO -  Thread 53is completed in 0.7951934337615967 second.
+2023-12-03 00:20:40,162 - INFO -  Data on https://turkishnetworktimes.com/giresunda-fabrikada-yangin/ was scraped
+2023-12-03 00:20:40,168 - INFO -  Thread 54is completed in 1.0145883560180664 second.
+2023-12-03 00:20:40,344 - INFO -  Data on https://turkishnetworktimes.com/marmara-icin-firtina-uyarisi/ was scraped
+2023-12-03 00:20:40,352 - INFO -  Thread 55is completed in 1.1983680725097656 second.
+2023-12-03 00:20:40,552 - INFO -  Data on https://turkishnetworktimes.com/tarim-ve-orman-bakani-yumakli-tespit-ettigimiz-butun-sektorlerin-uzerine-gidecegiz/ was scraped
+2023-12-03 00:20:40,557 - INFO -  Thread 56is completed in 1.403749704360962 second.
+2023-12-03 00:20:40,771 - INFO -  Data on https://turkishnetworktimes.com/miras-kavgasinda-sopayla-dovulerek-olduruldu/ was scraped
+2023-12-03 00:20:40,779 - INFO -  Thread 57is completed in 1.625307321548462 second.
+2023-12-03 00:20:40,992 - INFO -  Data on https://turkishnetworktimes.com/secil-erzan-corluda-aldigi-daireyi-21-gun-sonra-satmis/ was scraped
+2023-12-03 00:20:40,998 - INFO -  Thread 58is completed in 1.8444905281066895 second.
+2023-12-03 00:20:41,225 - INFO -  Data on https://turkishnetworktimes.com/bakan-bolat-yaklasik-66-milyon-tl-degerinde-uyusturucu-ele-gecirildi/ was scraped
+2023-12-03 00:20:41,231 - INFO -  Thread 59is completed in 2.0774075984954834 second.
+2023-12-03 00:20:41,435 - INFO -  Data on https://turkishnetworktimes.com/surat-teknesi-ile-olumde-4-yil-hapis-cezasina-tepki/ was scraped
+2023-12-03 00:20:41,441 - INFO -  Thread 60is completed in 2.287040948867798 second.
+2023-12-03 00:20:41,625 - INFO -  Data on https://turkishnetworktimes.com/ayni-galeriye-10-gunde-3uncu-silahli-saldiri-is-yeri-sahibi-yaralandi/ was scraped
+2023-12-03 00:20:41,632 - INFO -  Thread 61is completed in 2.477888345718384 second.
+2023-12-03 00:20:41,831 - INFO -  Data on https://turkishnetworktimes.com/katar-gazzedeki-insani-duraklama-bir-gun-daha-uzatildi/ was scraped
+2023-12-03 00:20:41,843 - INFO -  Thread 62is completed in 2.689185619354248 second.
+2023-12-03 00:20:42,050 - INFO -  Data on https://turkishnetworktimes.com/kudusteki-silahli-saldirida-olu-sayisi-3e-yukseldi/ was scraped
+2023-12-03 00:20:42,056 - INFO -  Thread 63is completed in 2.901914596557617 second.
+2023-12-03 00:20:45,515 - INFO -  Data on https://turkishnetworktimes.com/abd-askeri-ucagi-japonyada-dustu/ was scraped
+2023-12-03 00:20:45,521 - INFO -  Thread 64is completed in 6.3678505420684814 second.
+2023-12-03 00:20:48,802 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidanin-new-york-temaslari/ was scraped
+2023-12-03 00:20:48,807 - INFO -  Thread 65is completed in 9.653498888015747 second.
+2023-12-03 00:20:52,492 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidan-garantorluk-mekanizmasi-barisi-koruyacaktir/ was scraped
+2023-12-03 00:20:52,499 - INFO -  Thread 66is completed in 13.345463514328003 second.
+2023-12-03 00:20:55,339 - INFO -  Data on https://turkishnetworktimes.com/dso-gazzede-bulasici-hastaliklar-bombalardan-daha-fazla-insan-oldurebilir/ was scraped
+2023-12-03 00:20:55,345 - INFO -  Thread 67is completed in 16.191798210144043 second.
+2023-12-03 00:20:58,316 - INFO -  Data on https://turkishnetworktimes.com/filipinler-devlet-baskani-marcos-savastan-etkilenen-tum-filipinlilere-ulasildi/ was scraped
+2023-12-03 00:20:58,322 - INFO -  Thread 68is completed in 19.168572187423706 second.
+2023-12-03 00:21:02,832 - INFO -  Data on https://turkishnetworktimes.com/stoltenberg-ukrayna-bagimsiz-ve-demokratik-bir-ulus-olarak-ayakta-kalmayi-basardi/ was scraped
+2023-12-03 00:21:02,844 - INFO -  Thread 69is completed in 23.690743446350098 second.
+2023-12-03 00:21:07,664 - INFO -  Data on https://turkishnetworktimes.com/otomobili-calip-hurdaciya-satan-supheli-tutuklandi/ was scraped
+2023-12-03 00:21:07,670 - INFO -  Thread 70is completed in 28.516819715499878 second.
+2023-12-03 00:21:08,799 - INFO -  Data on https://turkishnetworktimes.com/canakkale-aciklarinda-29-kacak-gocmen-yakalandi/ was scraped
+2023-12-03 00:21:08,804 - INFO -  Thread 71is completed in 29.650742053985596 second.
+2023-12-03 00:21:09,113 - INFO -  Data on https://turkishnetworktimes.com/saglikli-kisilere-engelli-raporu-cikaran-cete-cokertildi-15-gozalti/ was scraped
+2023-12-03 00:21:09,119 - INFO -  Thread 72is completed in 29.96533226966858 second.
+2023-12-03 00:21:09,359 - INFO -  Data on https://turkishnetworktimes.com/sahte-evlilik-operasyonu-11-gozalti/ was scraped
+2023-12-03 00:21:09,366 - INFO -  Thread 73is completed in 30.211901426315308 second.
+2023-12-03 00:21:09,603 - INFO -  Data on https://turkishnetworktimes.com/denizde-kaybolan-2-liselinin-cansiz-bedenlerine-ulasildi/ was scraped
+2023-12-03 00:21:09,609 - INFO -  Thread 74is completed in 30.455036163330078 second.
+2023-12-03 00:21:09,830 - INFO -  Data on https://turkishnetworktimes.com/gaziantepte-daes-operasyonuna-2-gozalti/ was scraped
+2023-12-03 00:21:09,838 - INFO -  Thread 75is completed in 30.684531927108765 second.
+2023-12-03 00:21:09,838 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:21:15,134 - INFO -  Data on https://turkishnetworktimes.com/eve-tufekle-acilan-ateste-12-yasindaki-cocuk-basindan-yaralandi/ was scraped
+2023-12-03 00:21:15,139 - INFO -  Thread 76is completed in 0.2994518280029297 second.
+2023-12-03 00:21:15,387 - INFO -  Data on https://turkishnetworktimes.com/2-kisinin-oldugu-kazada-otomobili-kullanan-alkollu-surucu-de-hayatini-kaybetti/ was scraped
+2023-12-03 00:21:15,393 - INFO -  Thread 77is completed in 0.5532004833221436 second.
+2023-12-03 00:21:16,028 - INFO -  Data on https://turkishnetworktimes.com/elini-pres-makinesine-sikistiran-kadin-isci-yaralandi/ was scraped
+2023-12-03 00:21:16,034 - INFO -  Thread 78is completed in 1.1944584846496582 second.
+2023-12-03 00:21:16,392 - INFO -  Data on https://turkishnetworktimes.com/3-gundur-aranan-mehmet-kiraladigi-evde-olu-bulundu/ was scraped
+2023-12-03 00:21:16,399 - INFO -  Thread 79is completed in 1.559035301208496 second.
+2023-12-03 00:21:16,646 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidan-norvecli-ve-isvecli-mevkidaslariyla-bir-araya-geldi/ was scraped
+2023-12-03 00:21:16,653 - INFO -  Thread 80is completed in 1.813396692276001 second.
+2023-12-03 00:21:16,940 - INFO -  Data on https://turkishnetworktimes.com/atasehirde-silahli-saldiri/ was scraped
+2023-12-03 00:21:16,947 - INFO -  Thread 81is completed in 2.10697603225708 second.
+2023-12-03 00:21:17,196 - INFO -  Data on https://turkishnetworktimes.com/malatyada-4-8-buyuklugunde-deprem/ was scraped
+2023-12-03 00:21:17,201 - INFO -  Thread 82is completed in 2.3616669178009033 second.
+2023-12-03 00:21:17,441 - INFO -  Data on https://turkishnetworktimes.com/yerel-secim-takvimi-resmi-gazetede/ was scraped
+2023-12-03 00:21:17,447 - INFO -  Thread 83is completed in 2.607374429702759 second.
+2023-12-03 00:21:17,719 - INFO -  Data on https://turkishnetworktimes.com/bucada-okul-cevresinde-yapilan-uyusturucu-denetimlerinde-405-supheli-gozaltina-alindi/ was scraped
+2023-12-03 00:21:17,724 - INFO -  Thread 84is completed in 2.8846373558044434 second.
+2023-12-03 00:21:17,995 - INFO -  Data on https://turkishnetworktimes.com/kartalda-otomobilin-carptigi-kamyonet-caminin-duvarina-carpti/ was scraped
+2023-12-03 00:21:18,004 - INFO -  Thread 85is completed in 3.1641693115234375 second.
+2023-12-03 00:21:18,268 - INFO -  Data on https://turkishnetworktimes.com/tartistigi-kisiyi-satirla-yaralayan-cocuk-yakalandi-olay-kamerada/ was scraped
+2023-12-03 00:21:18,274 - INFO -  Thread 86is completed in 3.4344537258148193 second.
+2023-12-03 00:21:18,531 - INFO -  Data on https://turkishnetworktimes.com/bakan-goktasin-koruma-polisi-trafik-kazasinda-sehit-oldu/ was scraped
+2023-12-03 00:21:18,539 - INFO -  Thread 87is completed in 3.6988871097564697 second.
+2023-12-03 00:21:18,792 - INFO -  Data on https://turkishnetworktimes.com/kotu-koku-gelen-evden-ceset-cikti/ was scraped
+2023-12-03 00:21:18,798 - INFO -  Thread 88is completed in 3.9584853649139404 second.
+2023-12-03 00:21:19,109 - INFO -  Data on https://turkishnetworktimes.com/secil-erzanin-tehdit-altinda-cekildigi-iddia-edilen-goruntuleri-ortaya-cikti/ was scraped
+2023-12-03 00:21:19,116 - INFO -  Thread 89is completed in 4.276289224624634 second.
+2023-12-03 00:21:19,439 - INFO -  Data on https://turkishnetworktimes.com/esenyurtta-tekel-bayiine-yapilan-silahli-saldirinin-goruntuleri-ortaya-cikti/ was scraped
+2023-12-03 00:21:19,445 - INFO -  Thread 90is completed in 4.605238914489746 second.
+2023-12-03 00:21:19,697 - INFO -  Data on https://turkishnetworktimes.com/esenyurtta-iett-otobusune-carpan-otomobil-surucusu-hayatini-kaybetti/ was scraped
+2023-12-03 00:21:19,705 - INFO -  Thread 91is completed in 4.8653645515441895 second.
+2023-12-03 00:21:19,905 - INFO -  Data on https://turkishnetworktimes.com/kamyonetin-acilan-kapagi-yolda-yuruyen-kadinin-basina-carpti-o-anlar-kamerada/ was scraped
+2023-12-03 00:21:19,910 - INFO -  Thread 92is completed in 5.070584774017334 second.
+2023-12-03 00:21:20,092 - INFO -  Data on https://turkishnetworktimes.com/kazaya-karisan-suruculerden-biri-tampon-ile-saldirdi-digeri-bicakla-karsilik-verdi/ was scraped
+2023-12-03 00:21:20,098 - INFO -  Thread 93is completed in 5.258475303649902 second.
+2023-12-03 00:21:20,330 - INFO -  Data on https://turkishnetworktimes.com/evde-cikan-tartismada-tufekle-olduruldu/ was scraped
+2023-12-03 00:21:20,339 - INFO -  Thread 94is completed in 5.499135971069336 second.
+2023-12-03 00:21:20,624 - INFO -  Data on https://turkishnetworktimes.com/ttb-merkez-konseyi-davasinda-karar-aciklandi/ was scraped
+2023-12-03 00:21:20,630 - INFO -  Thread 95is completed in 5.790529727935791 second.
+2023-12-03 00:21:20,874 - INFO -  Data on https://turkishnetworktimes.com/kopekten-kacarken-dusen-cocuk-otomobilin-altinda-kalmaktan-son-anda-kurtuldu/ was scraped
+2023-12-03 00:21:20,881 - INFO -  Thread 96is completed in 6.040969371795654 second.
+2023-12-03 00:21:21,133 - INFO -  Data on https://turkishnetworktimes.com/secil-erzanin-birlikte-senet-imzaladigini-soyledigi-mocinin-bankadaki-fotografi-dosyada/ was scraped
+2023-12-03 00:21:21,139 - INFO -  Thread 97is completed in 6.299590826034546 second.
+2023-12-03 00:21:21,396 - INFO -  Data on https://turkishnetworktimes.com/bakimi-yapilan-viyadukteki-molozlari-nehre-doktuler-o-anlar-kamerada/ was scraped
+2023-12-03 00:21:21,402 - INFO -  Thread 98is completed in 6.562529563903809 second.
+2023-12-03 00:21:21,606 - INFO -  Data on https://turkishnetworktimes.com/tokatta-tirla-carpisan-otomobil-hurdaya-dondu-2-olu-1-yarali/ was scraped
+2023-12-03 00:21:21,613 - INFO -  Thread 99is completed in 6.7735209465026855 second.
+2023-12-03 00:21:21,883 - INFO -  Data on https://turkishnetworktimes.com/eski-futbolcu-semih-kayaya-verilen-cantada-bulunan-gps-cihazi-savciliga-sunuldu/ was scraped
+2023-12-03 00:21:21,890 - INFO -  Thread 100is completed in 7.050261974334717 second.
+2023-12-03 00:21:21,890 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:21:27,394 - INFO -  Data on https://turkishnetworktimes.com/imamoglunun-durusmaya-zorla-getirilmesi-talep-edildi-mahkeme-reddetti/ was scraped
+2023-12-03 00:21:27,401 - INFO -  Thread 101is completed in 0.508842945098877 second.
+2023-12-03 00:21:28,053 - INFO -  Data on https://turkishnetworktimes.com/kacak-7-komur-ocagi-patlayici-kullanilarak-imha-edildi/ was scraped
+2023-12-03 00:21:28,058 - INFO -  Thread 102is completed in 1.1667070388793945 second.
+2023-12-03 00:21:28,437 - INFO -  Data on https://turkishnetworktimes.com/konteyner-kentte-tartistigi-kayinbiraderini-oldurdu-esini-agir-yaraladi/ was scraped
+2023-12-03 00:21:28,445 - INFO -  Thread 103is completed in 1.5532279014587402 second.
+2023-12-03 00:21:28,910 - INFO -  Data on https://turkishnetworktimes.com/esini-oldurup-cesedini-bodruma-saklayan-saniga-agirlastirilmis-omur-boyu-hapis/ was scraped
+2023-12-03 00:21:28,919 - INFO -  Thread 104is completed in 2.0274465084075928 second.
+2023-12-03 00:21:29,151 - INFO -  Data on https://turkishnetworktimes.com/evdeki-celik-kasayi-calip-kucaginda-tasidi/ was scraped
+2023-12-03 00:21:29,157 - INFO -  Thread 105is completed in 2.265521764755249 second.
+2023-12-03 00:21:29,365 - INFO -  Data on https://turkishnetworktimes.com/karaya-oturan-kuru-yuk-gemisi-icin-2-kurtarma-secenegi/ was scraped
+2023-12-03 00:21:29,371 - INFO -  Thread 106is completed in 2.4793920516967773 second.
+2023-12-03 00:21:29,570 - INFO -  Data on https://turkishnetworktimes.com/adanada-depremzedeler-icin-hazirlanan-1000-konut-ocakta-teslim-edilecek/ was scraped
+2023-12-03 00:21:29,577 - INFO -  Thread 107is completed in 2.684795379638672 second.
+2023-12-03 00:21:29,797 - INFO -  Data on https://turkishnetworktimes.com/prof-dr-sevgi-ulkemizde-hiv-vakalarinin-yuzde-82si-erkek-yuzde-18i-kadin/ was scraped
+2023-12-03 00:21:29,802 - INFO -  Thread 108is completed in 2.910234212875366 second.
+2023-12-03 00:21:30,005 - INFO -  Data on https://turkishnetworktimes.com/bakan-ozhaseki-kayip-ve-zarar-fonu-icerisinde-olmamiz-elzemdir/ was scraped
+2023-12-03 00:21:30,010 - INFO -  Thread 109is completed in 3.1183841228485107 second.
+2023-12-03 00:21:30,366 - INFO -  Data on https://turkishnetworktimes.com/devre-mulk-dolandiriciliginda-720-yila-kadar-hapis-istemi/ was scraped
+2023-12-03 00:21:30,371 - INFO -  Thread 110is completed in 3.4792354106903076 second.
+2023-12-03 00:21:30,614 - INFO -  Data on https://turkishnetworktimes.com/otobuse-binip-yolcunun-telefonunu-caldi-o-anlar-kamerada/ was scraped
+2023-12-03 00:21:30,619 - INFO -  Thread 111is completed in 3.727731704711914 second.
+2023-12-03 00:21:30,872 - INFO -  Data on https://turkishnetworktimes.com/mit-tirlari-davasinda-adalar-belediye-baskani-erdem-gul-hakkinda-savci-ceza-istedi/ was scraped
+2023-12-03 00:21:30,877 - INFO -  Thread 112is completed in 3.9851841926574707 second.
+2023-12-03 00:21:31,102 - INFO -  Data on https://turkishnetworktimes.com/bakan-yumakli-brukselde/ was scraped
+2023-12-03 00:21:31,108 - INFO -  Thread 113is completed in 4.215986251831055 second.
+2023-12-03 00:21:31,518 - INFO -  Data on https://turkishnetworktimes.com/mhpde-myk-ve-mdk-toplantisi/ was scraped
+2023-12-03 00:21:31,524 - INFO -  Thread 114is completed in 4.632202863693237 second.
+2023-12-03 00:21:31,723 - INFO -  Data on https://turkishnetworktimes.com/zeytinburnunda-tramvayin-acilan-kapagi-cami-patlatti/ was scraped
+2023-12-03 00:21:31,730 - INFO -  Thread 115is completed in 4.838151454925537 second.
+2023-12-03 00:21:31,951 - INFO -  Data on https://turkishnetworktimes.com/bakan-uraloglu-kis-hazirliklarimiz-tamam/ was scraped
+2023-12-03 00:21:31,957 - INFO -  Thread 116is completed in 5.065171718597412 second.
+2023-12-03 00:21:32,211 - INFO -  Data on https://turkishnetworktimes.com/tarihi-taslarla-havalimaninda-yakalanan-belcikali-turiste-10-ay-hapis/ was scraped
+2023-12-03 00:21:32,217 - INFO -  Thread 117is completed in 5.325554370880127 second.
+2023-12-03 00:21:32,458 - INFO -  Data on https://turkishnetworktimes.com/iftiraya-ugrayan-doktor-gorevine-iade-edildi/ was scraped
+2023-12-03 00:21:32,465 - INFO -  Thread 118is completed in 5.5733702182769775 second.
+2023-12-03 00:21:32,715 - INFO -  Data on https://turkishnetworktimes.com/alkollu-surucunun-otomobili-kaza-sonrasi-kalabaligin-arasina-daldi-1-olu-22-yarali/ was scraped
+2023-12-03 00:21:32,721 - INFO -  Thread 119is completed in 5.829282522201538 second.
+2023-12-03 00:21:33,009 - INFO -  Data on https://turkishnetworktimes.com/cubbeli-ahmet-ifade-verdi/ was scraped
+2023-12-03 00:21:33,015 - INFO -  Thread 120is completed in 6.12359881401062 second.
+2023-12-03 00:21:33,266 - INFO -  Data on https://turkishnetworktimes.com/ankarada-zeytin-urunlerine-gida-denetimi/ was scraped
+2023-12-03 00:21:33,271 - INFO -  Thread 121is completed in 6.379166841506958 second.
+2023-12-03 00:21:33,527 - INFO -  Data on https://turkishnetworktimes.com/saldiri-hazirligindaki-terorist-mit-operasyonuyla-etkisiz-hale-getirildi/ was scraped
+2023-12-03 00:21:33,535 - INFO -  Thread 122is completed in 6.642994165420532 second.
+2023-12-03 00:21:33,754 - INFO -  Data on https://turkishnetworktimes.com/stoltenberg-turkiyenin-terorle-mucadele-konusunda-mesru-guvenlik-kaygilari-var/ was scraped
+2023-12-03 00:21:33,759 - INFO -  Thread 123is completed in 6.867364883422852 second.
+2023-12-03 00:21:33,977 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidan-estonya-ve-arnavutluk-disisleri-bakanlariyla-gorustu/ was scraped
+2023-12-03 00:21:33,984 - INFO -  Thread 124is completed in 7.09252142906189 second.
+2023-12-03 00:21:34,283 - INFO -  Data on https://turkishnetworktimes.com/ajdayi-restoranda-yemek-yerken-olduren-eski-esi-susma-hakkini-kullandi/ was scraped
+2023-12-03 00:21:34,291 - INFO -  Thread 125is completed in 7.399678468704224 second.
+2023-12-03 00:21:34,292 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:21:40,221 - INFO -  Data on https://turkishnetworktimes.com/husumetlisini-tabancayla-vurdu-corba-icerken-yakalandi/ was scraped
+2023-12-03 00:21:40,226 - INFO -  Thread 126is completed in 0.9295709133148193 second.
+2023-12-03 00:21:41,360 - INFO -  Data on https://turkishnetworktimes.com/devrilen-agaclar-nedeniyle-ziyarete-kapatilan-golcuk-tabiat-parki-acildi/ was scraped
+2023-12-03 00:21:41,366 - INFO -  Thread 127is completed in 2.069340467453003 second.
+2023-12-03 00:21:41,976 - INFO -  Data on https://turkishnetworktimes.com/cep-telefonu-magazasini-ablasina-sarkintilik-iddiasiyla-kundaklamis/ was scraped
+2023-12-03 00:21:41,982 - INFO -  Thread 128is completed in 2.685317039489746 second.
+2023-12-03 00:21:42,915 - INFO -  Data on https://turkishnetworktimes.com/esenyurtta-musterilerin-cep-telefonlarini-calan-maskeli-hirsiz-kamerada/ was scraped
+2023-12-03 00:21:42,922 - INFO -  Thread 129is completed in 3.624704122543335 second.
+2023-12-03 00:21:43,546 - INFO -  Data on https://turkishnetworktimes.com/hirsizlik-icin-bursada-bulusan-cumartesi-cetesi-uyesi-5-kisi-yakalandi/ was scraped
+2023-12-03 00:21:43,555 - INFO -  Thread 130is completed in 4.25832200050354 second.
+2023-12-03 00:21:43,876 - INFO -  Data on https://turkishnetworktimes.com/evi-silah-atolyesine-donusturmus/ was scraped
+2023-12-03 00:21:43,883 - INFO -  Thread 131is completed in 4.586444139480591 second.
+2023-12-03 00:21:44,332 - INFO -  Data on https://turkishnetworktimes.com/yagmur-sirasinda-okul-bahcesinin-istinat-duvari-yikildi/ was scraped
+2023-12-03 00:21:44,338 - INFO -  Thread 132is completed in 5.040846347808838 second.
+2023-12-03 00:21:44,619 - INFO -  Data on https://turkishnetworktimes.com/fransanin-amfibi-hucum-gemisi-misirda/ was scraped
+2023-12-03 00:21:44,626 - INFO -  Thread 133is completed in 5.328766822814941 second.
+2023-12-03 00:21:44,976 - INFO -  Data on https://turkishnetworktimes.com/zelenski-veliaht-prens-bin-selman-ile-telefonda-gorustu/ was scraped
+2023-12-03 00:21:44,984 - INFO -  Thread 134is completed in 5.687071084976196 second.
+2023-12-03 00:21:45,365 - INFO -  Data on https://turkishnetworktimes.com/beyaz-sarayda-geleneksel-noel-hazirliklari-tamamlandi/ was scraped
+2023-12-03 00:21:45,371 - INFO -  Thread 135is completed in 6.073989391326904 second.
+2023-12-03 00:21:45,658 - INFO -  Data on https://turkishnetworktimes.com/cevreci-yakitli-ucak-ingiltereden-abdye-ucuyor/ was scraped
+2023-12-03 00:21:45,664 - INFO -  Thread 136is completed in 6.367112636566162 second.
+2023-12-03 00:21:46,970 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidan-nato-genel-sekreteri-stoltenberg-ile-gorustu/ was scraped
+2023-12-03 00:21:46,976 - INFO -  Thread 137is completed in 7.679015874862671 second.
+2023-12-03 00:21:47,264 - INFO -  Data on https://turkishnetworktimes.com/kadikoyde-14-katli-metruk-binanin-catisina-yildirim-dustu/ was scraped
+2023-12-03 00:21:47,270 - INFO -  Thread 138is completed in 7.972804069519043 second.
+2023-12-03 00:21:47,557 - INFO -  Data on https://turkishnetworktimes.com/corumda-samanlikta-cikan-yangin-ahiri-da-yakti/ was scraped
+2023-12-03 00:21:47,562 - INFO -  Thread 139is completed in 8.265658855438232 second.
+2023-12-03 00:21:47,888 - INFO -  Data on https://turkishnetworktimes.com/bakan-yerlikaya-cengel-3-operasyonlarinda-1-milyon-litre-kacak-akaryakit-ele-gecirildi/ was scraped
+2023-12-03 00:21:47,896 - INFO -  Thread 140is completed in 8.599278688430786 second.
+2023-12-03 00:21:48,118 - INFO -  Data on https://turkishnetworktimes.com/arnavutkoyde-durakta-bekleyen-kadina-kursun-yagdirdi/ was scraped
+2023-12-03 00:21:48,123 - INFO -  Thread 141is completed in 8.82624101638794 second.
+2023-12-03 00:21:48,342 - INFO -  Data on https://turkishnetworktimes.com/samsunda-agabey-kardese-uyusturucudan-gozalti/ was scraped
+2023-12-03 00:21:48,347 - INFO -  Thread 142is completed in 9.04982590675354 second.
+2023-12-03 00:21:48,627 - INFO -  Data on https://turkishnetworktimes.com/sariyerde-yamactan-yola-kaya-parcalari-dustu/ was scraped
+2023-12-03 00:21:48,634 - INFO -  Thread 143is completed in 9.337344884872437 second.
+2023-12-03 00:21:48,856 - INFO -  Data on https://turkishnetworktimes.com/karsta-kacak-akaryakit-operasyonunda-4-gozalti/ was scraped
+2023-12-03 00:21:48,863 - INFO -  Thread 144is completed in 9.566223382949829 second.
+2023-12-03 00:21:49,067 - INFO -  Data on https://turkishnetworktimes.com/sarampole-yuvarlanan-otomobildeki-5-kisi-yaralandi/ was scraped
+2023-12-03 00:21:49,074 - INFO -  Thread 145is completed in 9.777424812316895 second.
+2023-12-03 00:21:49,328 - INFO -  Data on https://turkishnetworktimes.com/avustralya-elektronik-sigara-ithalatini-yasaklayacagini-duyurdu/ was scraped
+2023-12-03 00:21:49,335 - INFO -  Thread 146is completed in 10.038477897644043 second.
+2023-12-03 00:21:49,606 - INFO -  Data on https://turkishnetworktimes.com/eski-esini-sokak-ortasinda-bicakladi/ was scraped
+2023-12-03 00:21:49,613 - INFO -  Thread 147is completed in 10.316016912460327 second.
+2023-12-03 00:21:49,840 - INFO -  Data on https://turkishnetworktimes.com/kaza-yapan-surucunun-uyusturucudan-aranmasi-cikti-tutuklandi/ was scraped
+2023-12-03 00:21:49,846 - INFO -  Thread 148is completed in 10.549163341522217 second.
+2023-12-03 00:21:50,099 - INFO -  Data on https://turkishnetworktimes.com/izmir-merkezli-sibergoz-7-operasyonunda-tutuklu-sayisi-40a-yukseldi/ was scraped
+2023-12-03 00:21:50,105 - INFO -  Thread 149is completed in 10.80835771560669 second.
+2023-12-03 00:21:50,417 - INFO -  Data on https://turkishnetworktimes.com/mgk-israilin-gazzede-isledigi-insanlik-disi-suclar-tarihe-kara-leke-olarak-gecti/ was scraped
+2023-12-03 00:21:50,424 - INFO -  Thread 150is completed in 11.12752652168274 second.
+2023-12-03 00:21:50,425 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:21:56,313 - INFO -  Data on https://turkishnetworktimes.com/sobadan-zehirlenen-cift-yasamini-yitirdi/ was scraped
+2023-12-03 00:21:56,319 - INFO -  Thread 151is completed in 0.8908791542053223 second.
+2023-12-03 00:21:56,598 - INFO -  Data on https://turkishnetworktimes.com/tahir-elci-davasinda-mahkeme-yeniden-kesif-talebini-reddetti/ was scraped
+2023-12-03 00:21:56,608 - INFO -  Thread 152is completed in 1.1799793243408203 second.
+2023-12-03 00:21:56,998 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidan-hollandali-mevkidasi-slot-ile-bir-araya-geldi/ was scraped
+2023-12-03 00:21:57,005 - INFO -  Thread 153is completed in 1.576814889907837 second.
+2023-12-03 00:21:57,242 - INFO -  Data on https://turkishnetworktimes.com/bakan-blinken-ucuncu-kez-orta-doguya-gidiyor/ was scraped
+2023-12-03 00:21:57,248 - INFO -  Thread 154is completed in 1.8202309608459473 second.
+2023-12-03 00:21:58,585 - INFO -  Data on https://turkishnetworktimes.com/ayas-domatesine-ab-cografi-isaret-tescili/ was scraped
+2023-12-03 00:21:58,590 - INFO -  Thread 155is completed in 3.162313938140869 second.
+2023-12-03 00:21:58,965 - INFO -  Data on https://turkishnetworktimes.com/banka-mudurunun-fon-vurgunu-davasina-giren-fotograflar/ was scraped
+2023-12-03 00:21:58,973 - INFO -  Thread 156is completed in 3.5445191860198975 second.
+2023-12-03 00:21:59,372 - INFO -  Data on https://turkishnetworktimes.com/kucukcekmecede-yollar-gole-dondu-araclar-guclukle-ilerledi/ was scraped
+2023-12-03 00:21:59,377 - INFO -  Thread 157is completed in 3.9489126205444336 second.
+2023-12-03 00:21:59,765 - INFO -  Data on https://turkishnetworktimes.com/nevsehirde-kargo-dolandiriciligi-operasyonu-11-gozalti/ was scraped
+2023-12-03 00:21:59,774 - INFO -  Thread 158is completed in 4.345529556274414 second.
+2023-12-03 00:22:00,130 - INFO -  Data on https://turkishnetworktimes.com/istanbul-bogazi-gemi-trafigine-acildi/ was scraped
+2023-12-03 00:22:00,136 - INFO -  Thread 159is completed in 4.70769739151001 second.
+2023-12-03 00:22:00,390 - INFO -  Data on https://turkishnetworktimes.com/sariyerde-metruk-bina-coktu/ was scraped
+2023-12-03 00:22:00,398 - INFO -  Thread 160is completed in 4.969656229019165 second.
+2023-12-03 00:22:00,649 - INFO -  Data on https://turkishnetworktimes.com/vali-canalp-batmanda-selin-faturasi-158-milyon-lira/ was scraped
+2023-12-03 00:22:00,654 - INFO -  Thread 161is completed in 5.22554087638855 second.
+2023-12-03 00:22:00,876 - INFO -  Data on https://turkishnetworktimes.com/boluda-kuvvetli-ruzgar-tabiat-parkindaki-agaclar-devrildi/ was scraped
+2023-12-03 00:22:00,882 - INFO -  Thread 162is completed in 5.454118490219116 second.
+2023-12-03 00:22:01,175 - INFO -  Data on https://turkishnetworktimes.com/bakirkoyde-sahil-yolunu-su-basti-3-arac-mahsur-kaldi/ was scraped
+2023-12-03 00:22:01,183 - INFO -  Thread 163is completed in 5.755165338516235 second.
+2023-12-03 00:22:01,410 - INFO -  Data on https://turkishnetworktimes.com/secil-erzan-davasinda-sikayetci-sayisi-artti-hapis-istemi-226-yila-kadar-cikti/ was scraped
+2023-12-03 00:22:01,416 - INFO -  Thread 164is completed in 5.988206148147583 second.
+2023-12-03 00:22:01,646 - INFO -  Data on https://turkishnetworktimes.com/sampiyonlar-ligine-yurt-disi-yasagi/ was scraped
+2023-12-03 00:22:01,653 - INFO -  Thread 165is completed in 6.225175619125366 second.
+2023-12-03 00:22:02,352 - INFO -  Data on https://turkishnetworktimes.com/tutuklanan-sahte-savci-kimligi-olen-dedem-hediye-etti/ was scraped
+2023-12-03 00:22:02,358 - INFO -  Thread 166is completed in 6.930266380310059 second.
+2023-12-03 00:22:02,605 - INFO -  Data on https://turkishnetworktimes.com/kocaelide-isci-servisi-devrildi-1i-agir-9-yarali/ was scraped
+2023-12-03 00:22:02,613 - INFO -  Thread 167is completed in 7.184932470321655 second.
+2023-12-03 00:22:02,857 - INFO -  Data on https://turkishnetworktimes.com/zeytinburnunda-karaya-oturan-gemi-kurtarildi/ was scraped
+2023-12-03 00:22:02,864 - INFO -  Thread 168is completed in 7.43564772605896 second.
+2023-12-03 00:22:03,093 - INFO -  Data on https://turkishnetworktimes.com/ispartada-otomobiller-carpisti-1-olu-bashekim-ile-3-saglikci-yarali/ was scraped
+2023-12-03 00:22:03,102 - INFO -  Thread 169is completed in 7.673709154129028 second.
+2023-12-03 00:22:03,366 - INFO -  Data on https://turkishnetworktimes.com/ankarada-65-milyon-lira-degerinde-kacak-cay-ve-tutun-ele-gecirildi/ was scraped
+2023-12-03 00:22:03,372 - INFO -  Thread 170is completed in 7.944031238555908 second.
+2023-12-03 00:22:06,523 - INFO -  Data on https://turkishnetworktimes.com/diayder-davasinda-savci-16-sanik-hakkinda-15er-yila-kadar-hapis-istedi/ was scraped
+2023-12-03 00:22:06,529 - INFO -  Thread 171is completed in 11.100942611694336 second.
+2023-12-03 00:22:06,775 - INFO -  Data on https://turkishnetworktimes.com/siddet-uygulayan-esini-olduren-kadina-verilen-15-yil-hapis-cezasini-yargitay-onadi/ was scraped
+2023-12-03 00:22:06,782 - INFO -  Thread 172is completed in 11.353837251663208 second.
+2023-12-03 00:22:07,480 - INFO -  Data on https://turkishnetworktimes.com/oykunun-olumunde-tutuklu-saniga-10-yil-hapis-ve-tahliye-karari/ was scraped
+2023-12-03 00:22:07,487 - INFO -  Thread 173is completed in 12.058420896530151 second.
+2023-12-03 00:22:07,717 - INFO -  Data on https://turkishnetworktimes.com/bagcilarda-ilkokulun-yanindaki-insaatin-istinat-duvari-coktu/ was scraped
+2023-12-03 00:22:07,724 - INFO -  Thread 174is completed in 12.295388221740723 second.
+2023-12-03 00:22:07,952 - INFO -  Data on https://turkishnetworktimes.com/istanbul-merkezli-9-ilde-forex-dolandiricilarina-operasyon-11-supheli-tutuklandi/ was scraped
+2023-12-03 00:22:07,958 - INFO -  Thread 175is completed in 12.529960632324219 second.
+2023-12-03 00:22:07,958 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:22:13,241 - INFO -  Data on https://turkishnetworktimes.com/istanbulda-firtina-ve-saganak-yagis/ was scraped
+2023-12-03 00:22:13,248 - INFO -  Thread 176is completed in 0.2881126403808594 second.
+2023-12-03 00:22:13,944 - INFO -  Data on https://turkishnetworktimes.com/is-yerinin-onunu-kapatan-otomobili-forkliftle-kaldirdi/ was scraped
+2023-12-03 00:22:13,952 - INFO -  Thread 177is completed in 0.992678165435791 second.
+2023-12-03 00:22:14,538 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidan-italyan-mevkidasi-tajani-ile-gorustu/ was scraped
+2023-12-03 00:22:14,544 - INFO -  Thread 178is completed in 1.5842487812042236 second.
+2023-12-03 00:22:15,064 - INFO -  Data on https://turkishnetworktimes.com/bakan-guler-azerbaycanda-turk-sehitligini-ziyaret-etti/ was scraped
+2023-12-03 00:22:15,069 - INFO -  Thread 179is completed in 2.1091995239257812 second.
+2023-12-03 00:22:15,262 - INFO -  Data on https://turkishnetworktimes.com/kabus-doktor-hakkinda-943-yil-9-ay-hapis-istemi/ was scraped
+2023-12-03 00:22:15,268 - INFO -  Thread 180is completed in 2.3082692623138428 second.
+2023-12-03 00:22:15,463 - INFO -  Data on https://turkishnetworktimes.com/feto-uyeliginden-75-yil-kesinlesmis-hapis-cezasi-olan-hukumlu-yakalandi/ was scraped
+2023-12-03 00:22:15,469 - INFO -  Thread 181is completed in 2.5092151165008545 second.
+2023-12-03 00:22:15,688 - INFO -  Data on https://turkishnetworktimes.com/kirmizi-bultenle-aranan-2-deasli-kirsehirde-yakalandi/ was scraped
+2023-12-03 00:22:15,693 - INFO -  Thread 182is completed in 2.733506679534912 second.
+2023-12-03 00:22:15,954 - INFO -  Data on https://turkishnetworktimes.com/ajdayi-yemek-yedigi-restoranda-olduren-eski-esi-tutuklandi/ was scraped
+2023-12-03 00:22:15,960 - INFO -  Thread 183is completed in 3.0005545616149902 second.
+2023-12-03 00:22:16,223 - INFO -  Data on https://turkishnetworktimes.com/zonguldakta-kayip-denizciler-11-gundur-araniyor/ was scraped
+2023-12-03 00:22:16,229 - INFO -  Thread 184is completed in 3.268866539001465 second.
+2023-12-03 00:22:16,445 - INFO -  Data on https://turkishnetworktimes.com/alacak-nedeniyle-kadin-tekstilciyi-vurup-bogazini-kesen-supheli-tutuklandi/ was scraped
+2023-12-03 00:22:16,451 - INFO -  Thread 185is completed in 3.49174427986145 second.
+2023-12-03 00:22:16,859 - INFO -  Data on https://turkishnetworktimes.com/canakkalede-nusret-2023-davet-tatbikati-basladi/ was scraped
+2023-12-03 00:22:16,867 - INFO -  Thread 186is completed in 3.9072132110595703 second.
+2023-12-03 00:22:17,065 - INFO -  Data on https://turkishnetworktimes.com/prof-dr-naci-gorur-marmarada-su-anda-deprem-olsa-yerle-bir-oluruz/ was scraped
+2023-12-03 00:22:17,075 - INFO -  Thread 187is completed in 4.115286111831665 second.
+2023-12-03 00:22:17,273 - INFO -  Data on https://turkishnetworktimes.com/6-yil-hapisle-aranan-feto-hukumlusu-ogretmen-ranzadaki-gizli-bolmede-yakalandi/ was scraped
+2023-12-03 00:22:17,281 - INFO -  Thread 188is completed in 4.32085108757019 second.
+2023-12-03 00:22:17,511 - INFO -  Data on https://turkishnetworktimes.com/ogretmen-3-cocuk-annesi-esini-oldurup-jandarmayi-aradi/ was scraped
+2023-12-03 00:22:17,517 - INFO -  Thread 189is completed in 4.557605981826782 second.
+2023-12-03 00:22:17,761 - INFO -  Data on https://turkishnetworktimes.com/kesinlesmis-hapis-cezasi-bulunan-2-hukumlu-yakalandi/ was scraped
+2023-12-03 00:22:17,766 - INFO -  Thread 190is completed in 4.806487321853638 second.
+2023-12-03 00:22:18,020 - INFO -  Data on https://turkishnetworktimes.com/domuz-sanip-ava-ciktigi-arkadasini-oldurdu-15-yila-kadar-hapsi-istendi/ was scraped
+2023-12-03 00:22:18,025 - INFO -  Thread 191is completed in 5.065154790878296 second.
+2023-12-03 00:22:18,271 - INFO -  Data on https://turkishnetworktimes.com/bosanma-asamasindaki-esini-yaralayan-sanigin-cezasi-75-yila-indi/ was scraped
+2023-12-03 00:22:18,279 - INFO -  Thread 192is completed in 5.319188833236694 second.
+2023-12-03 00:22:18,551 - INFO -  Data on https://turkishnetworktimes.com/dso-hava-kirliligi-kaynakli-olumler-icin-acil-eylem-gerekiyor/ was scraped
+2023-12-03 00:22:18,558 - INFO -  Thread 193is completed in 5.598354339599609 second.
+2023-12-03 00:22:18,773 - INFO -  Data on https://turkishnetworktimes.com/kastamonuda-uyusturucu-ve-kacak-silah-operasyonunda-5-tutuklama/ was scraped
+2023-12-03 00:22:18,780 - INFO -  Thread 194is completed in 5.819805383682251 second.
+2023-12-03 00:22:19,055 - INFO -  Data on https://turkishnetworktimes.com/mersinde-pkk-kck-ve-feto-pdy-yapilanmasina-operasyon/ was scraped
+2023-12-03 00:22:19,066 - INFO -  Thread 195is completed in 6.106639623641968 second.
+2023-12-03 00:22:19,357 - INFO -  Data on https://turkishnetworktimes.com/edremitte-kizilkeceli-ve-ikizcay-dereleri-tasti/ was scraped
+2023-12-03 00:22:19,363 - INFO -  Thread 196is completed in 6.402869462966919 second.
+2023-12-03 00:22:19,591 - INFO -  Data on https://turkishnetworktimes.com/kayseride-dur-ihtari-yapan-polise-carpan-surucu-saklandigi-adreste-yakalandi/ was scraped
+2023-12-03 00:22:19,598 - INFO -  Thread 197is completed in 6.6379241943359375 second.
+2023-12-03 00:22:19,886 - INFO -  Data on https://turkishnetworktimes.com/kayseride-tartistigi-kocasini-bicakla-yaraladi/ was scraped
+2023-12-03 00:22:19,892 - INFO -  Thread 198is completed in 6.931866407394409 second.
+2023-12-03 00:22:20,244 - INFO -  Data on https://turkishnetworktimes.com/defne-devlet-hastanesinde-ilk-dogum-gerceklesti-bakan-koca-sosyal-medyadan-duyurdu/ was scraped
+2023-12-03 00:22:20,250 - INFO -  Thread 199is completed in 7.2903337478637695 second.
+2023-12-03 00:22:20,505 - INFO -  Data on https://turkishnetworktimes.com/6-aylik-hamile-esini-olduren-saniga-indirimli-cezayi-yargitay-bozdu/ was scraped
+2023-12-03 00:22:20,511 - INFO -  Thread 200is completed in 7.551746845245361 second.
+2023-12-03 00:22:20,512 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:22:26,186 - INFO -  Data on https://turkishnetworktimes.com/odun-toplamaya-gittigi-sahilde-kaybolan-kadini-arama-calismalarindan-3uncu-gun/ was scraped
+2023-12-03 00:22:26,193 - INFO -  Thread 201is completed in 0.6775445938110352 second.
+2023-12-03 00:22:26,382 - INFO -  Data on https://turkishnetworktimes.com/kiz-cocugu-okumaz-diye-okula-gonderilmedi-60-yasinda-okuma-yazma-ogrendi/ was scraped
+2023-12-03 00:22:26,389 - INFO -  Thread 202is completed in 0.8733329772949219 second.
+2023-12-03 00:22:26,643 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidan-akdeniz-icin-birlik-8-bolgesel-forumuna-katildi/ was scraped
+2023-12-03 00:22:26,649 - INFO -  Thread 203is completed in 1.133598804473877 second.
+2023-12-03 00:22:26,911 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidan-irlandali-mevkidasi-martin-ile-gorustu/ was scraped
+2023-12-03 00:22:26,917 - INFO -  Thread 204is completed in 1.4009191989898682 second.
+2023-12-03 00:22:27,078 - INFO -  Data on https://turkishnetworktimes.com/hablemitoglu-davasinda-taniklarin-dinlenmesine-devam-edildi/ was scraped
+2023-12-03 00:22:27,085 - INFO -  Thread 205is completed in 1.568861722946167 second.
+2023-12-03 00:22:27,297 - INFO -  Data on https://turkishnetworktimes.com/eski-esini-yemek-yerken-olduren-supheli-6-gun-sonra-yakalandi/ was scraped
+2023-12-03 00:22:27,303 - INFO -  Thread 206is completed in 1.7871079444885254 second.
+2023-12-03 00:22:27,559 - INFO -  Data on https://turkishnetworktimes.com/vanda-sarilik-teshisi-konulan-3-gunluk-bebek-ambulans-helikopterle-hastaneye-ulastirildi/ was scraped
+2023-12-03 00:22:27,564 - INFO -  Thread 207is completed in 2.0483083724975586 second.
+2023-12-03 00:22:27,740 - INFO -  Data on https://turkishnetworktimes.com/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yuzde-87ye-ulasti/ was scraped
+2023-12-03 00:22:27,745 - INFO -  Thread 208is completed in 2.2297568321228027 second.
+2023-12-03 00:22:27,920 - INFO -  Data on https://turkishnetworktimes.com/bakan-yerlikaya-cember-7-operasyonlarinda-arama-kaydi-bulunan-1034-firari-yakalandi/ was scraped
+2023-12-03 00:22:27,925 - INFO -  Thread 209is completed in 2.40954852104187 second.
+2023-12-03 00:22:30,610 - INFO -  Data on https://turkishnetworktimes.com/sanliurfada-sahte-savci-gercek-savciya-yakalandi/ was scraped
+2023-12-03 00:22:30,617 - INFO -  Thread 210is completed in 5.100959062576294 second.
+2023-12-03 00:22:30,830 - INFO -  Data on https://turkishnetworktimes.com/kktc-cumhurbaskani-vekili-tore-turkiye-gucludur/ was scraped
+2023-12-03 00:22:30,836 - INFO -  Thread 211is completed in 5.320510625839233 second.
+2023-12-03 00:22:31,018 - INFO -  Data on https://turkishnetworktimes.com/istanbulda-firtina-deniz-ulasimini-vurdu/ was scraped
+2023-12-03 00:22:31,023 - INFO -  Thread 212is completed in 5.507749795913696 second.
+2023-12-03 00:22:31,230 - INFO -  Data on https://turkishnetworktimes.com/samsunda-husumetlisini-ruhsatli-silahiyla-vurarak-oldurdu/ was scraped
+2023-12-03 00:22:31,235 - INFO -  Thread 213is completed in 5.719222545623779 second.
+2023-12-03 00:22:31,431 - INFO -  Data on https://turkishnetworktimes.com/otomobil-direge-carpti-ayni-aileden-4-kisi-oldu/ was scraped
+2023-12-03 00:22:31,438 - INFO -  Thread 214is completed in 5.9218268394470215 second.
+2023-12-03 00:22:31,657 - INFO -  Data on https://turkishnetworktimes.com/besiktasta-firtina-beton-bloklari-buyuk-mecidiye-camiinin-avlusuna-savurdu/ was scraped
+2023-12-03 00:22:31,663 - INFO -  Thread 215is completed in 6.146924257278442 second.
+2023-12-03 00:22:31,899 - INFO -  Data on https://turkishnetworktimes.com/amasyada-aranan-suphelilere-operasyon-45-kisi-gozaltina-alindi-6si-tutuklandi/ was scraped
+2023-12-03 00:22:31,905 - INFO -  Thread 216is completed in 6.389076232910156 second.
+2023-12-03 00:22:32,224 - INFO -  Data on https://turkishnetworktimes.com/odemiste-4-kisinin-yaralandigi-olayla-ilgili-6-kisi-daha-gozaltina-alindi/ was scraped
+2023-12-03 00:22:32,230 - INFO -  Thread 217is completed in 6.71436882019043 second.
+2023-12-03 00:22:32,450 - INFO -  Data on https://turkishnetworktimes.com/dini-nikahla-yasayip-ayrildigi-kadini-tabancayla-yaraladi/ was scraped
+2023-12-03 00:22:32,456 - INFO -  Thread 218is completed in 6.940513372421265 second.
+2023-12-03 00:22:32,791 - INFO -  Data on https://turkishnetworktimes.com/tsof-baskani-apaydin-esnafimiz-mujdenin-hayata-gecirilmesini-bekliyor/ was scraped
+2023-12-03 00:22:32,796 - INFO -  Thread 219is completed in 7.28069806098938 second.
+2023-12-03 00:22:33,039 - INFO -  Data on https://turkishnetworktimes.com/ev-sahibini-disari-atip-kapiyi-kilitleyen-hirsizlik-suphelisi-cilingir-yardimiyla-gozaltina-alindi/ was scraped
+2023-12-03 00:22:33,045 - INFO -  Thread 220is completed in 7.529171705245972 second.
+2023-12-03 00:22:33,291 - INFO -  Data on https://turkishnetworktimes.com/vanda-114-kacak-gocmen-yakalandi-13-organizator-gozaltina-alindi/ was scraped
+2023-12-03 00:22:33,298 - INFO -  Thread 221is completed in 7.782662630081177 second.
+2023-12-03 00:22:33,503 - INFO -  Data on https://turkishnetworktimes.com/arnavutkoyde-kursun-izleri-bulunan-araca-inceleme-esenler-saldirisi-suphesi/ was scraped
+2023-12-03 00:22:33,509 - INFO -  Thread 222is completed in 7.993424654006958 second.
+2023-12-03 00:22:33,743 - INFO -  Data on https://turkishnetworktimes.com/hamas-12-rehineyi-daha-serbest-birakti/ was scraped
+2023-12-03 00:22:33,750 - INFO -  Thread 223is completed in 8.23457384109497 second.
+2023-12-03 00:22:33,957 - INFO -  Data on https://turkishnetworktimes.com/canakkale-bogazi-gemi-gecisine-kapatildi/ was scraped
+2023-12-03 00:22:33,964 - INFO -  Thread 224is completed in 8.44837498664856 second.
+2023-12-03 00:22:34,200 - INFO -  Data on https://turkishnetworktimes.com/hatali-teshis-ile-gogusleri-alindi-6-yillik-hukuk-savasini-kazandi/ was scraped
+2023-12-03 00:22:34,206 - INFO -  Thread 225is completed in 8.690485000610352 second.
+2023-12-03 00:22:34,206 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:22:40,708 - INFO -  Data on https://turkishnetworktimes.com/saglik-calisanlarina-saldiran-baba-ve-oglu-serbest/ was scraped
+2023-12-03 00:22:40,716 - INFO -  Thread 226is completed in 1.5042827129364014 second.
+2023-12-03 00:22:41,657 - INFO -  Data on https://turkishnetworktimes.com/polat-cifti-sorusturmasinda-sampiyonlar-ligine-yurt-disi-cikis-yasagi-talebi/ was scraped
+2023-12-03 00:22:41,664 - INFO -  Thread 227is completed in 2.452150344848633 second.
+2023-12-03 00:22:42,659 - INFO -  Data on https://turkishnetworktimes.com/kozalak-toplamak-icin-ciktigi-agacta-elektrik-akimina-kapilip-oldu/ was scraped
+2023-12-03 00:22:42,667 - INFO -  Thread 228is completed in 3.455676555633545 second.
+2023-12-03 00:22:42,899 - INFO -  Data on https://turkishnetworktimes.com/thy-56-seferi-iptal-etti/ was scraped
+2023-12-03 00:22:42,904 - INFO -  Thread 229is completed in 3.6923668384552 second.
+2023-12-03 00:22:43,123 - INFO -  Data on https://turkishnetworktimes.com/denizbank-secil-erzan-olayi-ile-ilgili-aciklama-yapti/ was scraped
+2023-12-03 00:22:43,130 - INFO -  Thread 230is completed in 3.918527126312256 second.
+2023-12-03 00:22:43,327 - INFO -  Data on https://turkishnetworktimes.com/sosyal-medya-fenomeni-ozlem-ve-tayyar-oz-ciftine-orgut-sorusturmasi/ was scraped
+2023-12-03 00:22:43,335 - INFO -  Thread 231is completed in 4.123539924621582 second.
+2023-12-03 00:22:43,672 - INFO -  Data on https://turkishnetworktimes.com/erkek-arkadasini-ayrilmak-istedigi-icin-oldurmus/ was scraped
+2023-12-03 00:22:43,681 - INFO -  Thread 232is completed in 4.469301700592041 second.
+2023-12-03 00:22:43,900 - INFO -  Data on https://turkishnetworktimes.com/batmanda-baraj-kapaginin-acilacagi-uyarisi/ was scraped
+2023-12-03 00:22:43,905 - INFO -  Thread 233is completed in 4.693783760070801 second.
+2023-12-03 00:22:44,111 - INFO -  Data on https://turkishnetworktimes.com/bakan-koca-gazzeden-bir-grup-hasta-daha-getirmek-icin-calisiyoruz/ was scraped
+2023-12-03 00:22:44,118 - INFO -  Thread 234is completed in 4.906566619873047 second.
+2023-12-03 00:22:44,353 - INFO -  Data on https://turkishnetworktimes.com/bir-zamanlar-copluk-olan-hekimbasinda-yeni-yasam-alani-olusuyor/ was scraped
+2023-12-03 00:22:44,360 - INFO -  Thread 235is completed in 5.14861536026001 second.
+2023-12-03 00:22:44,586 - INFO -  Data on https://turkishnetworktimes.com/esenyurtta-oldurulen-gencin-babasi-cocugumu-katlettiler/ was scraped
+2023-12-03 00:22:44,593 - INFO -  Thread 236is completed in 5.3810858726501465 second.
+2023-12-03 00:22:44,792 - INFO -  Data on https://turkishnetworktimes.com/arda-turanin-bankaci-secil-erzan-ile-gorusmeleri-dosyada/ was scraped
+2023-12-03 00:22:44,800 - INFO -  Thread 237is completed in 5.588742256164551 second.
+2023-12-03 00:22:45,010 - INFO -  Data on https://turkishnetworktimes.com/is-insani-ceviker-fatih-terim-bu-isten-cok-rahatsiz-olur-dedi-parayi-kor-noktada-teslim-ettik/ was scraped
+2023-12-03 00:22:45,018 - INFO -  Thread 238is completed in 5.80621075630188 second.
+2023-12-03 00:22:45,216 - INFO -  Data on https://turkishnetworktimes.com/filistin-kizilayi-insani-yardim-yuklu-100-kamyonu-teslim-aldi/ was scraped
+2023-12-03 00:22:45,222 - INFO -  Thread 239is completed in 6.0108842849731445 second.
+2023-12-03 00:22:45,465 - INFO -  Data on https://turkishnetworktimes.com/alacak-nedeniyle-tartistigi-kadini-tabanca-ile-vurup-makasla-bogazini-kesti/ was scraped
+2023-12-03 00:22:45,470 - INFO -  Thread 240is completed in 6.258836984634399 second.
+2023-12-03 00:22:45,689 - INFO -  Data on https://turkishnetworktimes.com/dicle-nehrine-atlayan-kiz-kardeslerden-zelin-araniyor/ was scraped
+2023-12-03 00:22:45,695 - INFO -  Thread 241is completed in 6.483548879623413 second.
+2023-12-03 00:22:45,920 - INFO -  Data on https://turkishnetworktimes.com/canakkale-bogazinda-arizalanan-yolcu-gemisi-suruklendi/ was scraped
+2023-12-03 00:22:45,926 - INFO -  Thread 242is completed in 6.714187383651733 second.
+2023-12-03 00:22:46,131 - INFO -  Data on https://turkishnetworktimes.com/cakar-lambali-otomobilinde-yuksek-sesle-muzik-dinleyen-surucuye-ceza/ was scraped
+2023-12-03 00:22:46,137 - INFO -  Thread 243is completed in 6.925802946090698 second.
+2023-12-03 00:22:46,330 - INFO -  Data on https://turkishnetworktimes.com/sahildeki-cadirin-yaninda-erkek-cesedi-bulundu/ was scraped
+2023-12-03 00:22:46,336 - INFO -  Thread 244is completed in 7.124074935913086 second.
+2023-12-03 00:22:46,566 - INFO -  Data on https://turkishnetworktimes.com/hamas-17-rehineyi-daha-serbest-birakti/ was scraped
+2023-12-03 00:22:46,573 - INFO -  Thread 245is completed in 7.361330509185791 second.
+2023-12-03 00:22:46,780 - INFO -  Data on https://turkishnetworktimes.com/filistin-kizilayi-israil-yaralilara-ulasmamizi-engelliyor/ was scraped
+2023-12-03 00:22:46,786 - INFO -  Thread 246is completed in 7.57452654838562 second.
+2023-12-03 00:22:47,066 - INFO -  Data on https://turkishnetworktimes.com/bm-gazzeye-insani-yardim-yuklu-187-kamyon-ve-129-bin-litre-yakit-giris-yapti/ was scraped
+2023-12-03 00:22:47,073 - INFO -  Thread 247is completed in 7.860972881317139 second.
+2023-12-03 00:22:47,335 - INFO -  Data on https://turkishnetworktimes.com/zelenski-rusya-gida-kitligini-kullanmaya-ve-acligi-silah-haline-getirmeye-devam-edecek/ was scraped
+2023-12-03 00:22:47,342 - INFO -  Thread 248is completed in 8.130170583724976 second.
+2023-12-03 00:22:47,598 - INFO -  Data on https://turkishnetworktimes.com/aden-korfezinde-kacirilan-ticari-gemiye-abd-savas-gemisi-mudahale-etti/ was scraped
+2023-12-03 00:22:47,603 - INFO -  Thread 249is completed in 8.391723155975342 second.
+2023-12-03 00:22:47,807 - INFO -  Data on https://turkishnetworktimes.com/biden-ile-netanyahu-insani-duraklamayi-degerlendirdi/ was scraped
+2023-12-03 00:22:47,813 - INFO -  Thread 250is completed in 8.601390600204468 second.
+2023-12-03 00:22:47,813 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:22:53,084 - INFO -  Data on https://turkishnetworktimes.com/kiliste-yalniz-yasayan-doktor-evinde-olu-bulundu/ was scraped
+2023-12-03 00:22:53,089 - INFO -  Thread 251is completed in 0.27331995964050293 second.
+2023-12-03 00:22:53,314 - INFO -  Data on https://turkishnetworktimes.com/kamyonun-carptigi-10-yasindaki-sudem-yaralandi/ was scraped
+2023-12-03 00:22:53,319 - INFO -  Thread 252is completed in 0.5035936832427979 second.
+2023-12-03 00:22:53,577 - INFO -  Data on https://turkishnetworktimes.com/diyarbakirda-otomobiller-carpisti-2-olu-1-yarali/ was scraped
+2023-12-03 00:22:53,584 - INFO -  Thread 253is completed in 0.7683680057525635 second.
+2023-12-03 00:22:54,118 - INFO -  Data on https://turkishnetworktimes.com/bartin-irmagindan-akan-camurlu-su-denizin-rengini-degistirdi/ was scraped
+2023-12-03 00:22:54,123 - INFO -  Thread 254is completed in 1.3077845573425293 second.
+2023-12-03 00:22:54,572 - INFO -  Data on https://turkishnetworktimes.com/iklim-degisikligi-nedeniyle-bitkiler-de-goc-edebilir/ was scraped
+2023-12-03 00:22:54,577 - INFO -  Thread 255is completed in 1.7612268924713135 second.
+2023-12-03 00:22:54,899 - INFO -  Data on https://turkishnetworktimes.com/atasehirde-toptancilar-ile-market-calisanlarinin-tekmeli-yumruklu-kavgasi-kamerada/ was scraped
+2023-12-03 00:22:54,906 - INFO -  Thread 256is completed in 2.0902788639068604 second.
+2023-12-03 00:22:55,165 - INFO -  Data on https://turkishnetworktimes.com/istanbul-merkezli-4-ilde-feto-operasyonu-6-gozalti/ was scraped
+2023-12-03 00:22:55,172 - INFO -  Thread 257is completed in 2.355989456176758 second.
+2023-12-03 00:22:55,444 - INFO -  Data on https://turkishnetworktimes.com/sel-ve-taskinlarda-iklim-degisikligi-gunah-kecisi-ilan-ediliyor/ was scraped
+2023-12-03 00:22:55,450 - INFO -  Thread 258is completed in 2.633822441101074 second.
+2023-12-03 00:22:55,701 - INFO -  Data on https://turkishnetworktimes.com/basina-mermer-blok-dusen-isci-oldu-isletme-sorumlusu-kusurum-yok-dedi/ was scraped
+2023-12-03 00:22:55,707 - INFO -  Thread 259is completed in 2.891160249710083 second.
+2023-12-03 00:22:55,928 - INFO -  Data on https://turkishnetworktimes.com/sahra-hastanesi-icin-gonderilen-teknik-heyet-gazzeye-ulasti/ was scraped
+2023-12-03 00:22:55,935 - INFO -  Thread 260is completed in 3.1190974712371826 second.
+2023-12-03 00:22:56,140 - INFO -  Data on https://turkishnetworktimes.com/alacak-tartismasi-cinayetine-2-tutuklama/ was scraped
+2023-12-03 00:22:56,147 - INFO -  Thread 261is completed in 3.3313004970550537 second.
+2023-12-03 00:22:56,493 - INFO -  Data on https://turkishnetworktimes.com/akomdan-firtina-ve-yagisli-hava-uyarisi/ was scraped
+2023-12-03 00:22:56,498 - INFO -  Thread 262is completed in 3.68207049369812 second.
+2023-12-03 00:22:56,809 - INFO -  Data on https://turkishnetworktimes.com/esenlerde-otomobile-saldirida-olduruldu-cezaevi-firarisi-cikti/ was scraped
+2023-12-03 00:22:56,814 - INFO -  Thread 263is completed in 3.9981887340545654 second.
+2023-12-03 00:22:57,056 - INFO -  Data on https://turkishnetworktimes.com/bahcesine-zarar-verip-kopegine-saldirdigini-soyledigi-397-kiloluk-domuzu-oldurdu/ was scraped
+2023-12-03 00:22:57,061 - INFO -  Thread 264is completed in 4.245591640472412 second.
+2023-12-03 00:22:57,275 - INFO -  Data on https://turkishnetworktimes.com/esini-oldurup-annesini-agir-yaralayan-supheli-tutuklandi/ was scraped
+2023-12-03 00:22:57,281 - INFO -  Thread 265is completed in 4.465675592422485 second.
+2023-12-03 00:22:57,490 - INFO -  Data on https://turkishnetworktimes.com/ambarli-limaninda-duzenlenen-operasyonda-275-bin-520-elektronik-sigara-yakalandi/ was scraped
+2023-12-03 00:22:57,500 - INFO -  Thread 266is completed in 4.684354066848755 second.
+2023-12-03 00:22:57,813 - INFO -  Data on https://turkishnetworktimes.com/yunanistana-kacan-13-teror-suphelisi-edirnede-yakalandi/ was scraped
+2023-12-03 00:22:57,821 - INFO -  Thread 267is completed in 5.005163192749023 second.
+2023-12-03 00:22:58,032 - INFO -  Data on https://turkishnetworktimes.com/calinti-araclari-agir-hasarlilarla-change-edip-satan-sebeke-cokertildi-22-gozalti/ was scraped
+2023-12-03 00:22:58,038 - INFO -  Thread 268is completed in 5.222694396972656 second.
+2023-12-03 00:22:58,276 - INFO -  Data on https://turkishnetworktimes.com/alkollu-surucunun-kullandigi-otomobil-kamyonla-carpisti-2-olu/ was scraped
+2023-12-03 00:22:58,282 - INFO -  Thread 269is completed in 5.466656446456909 second.
+2023-12-03 00:22:58,497 - INFO -  Data on https://turkishnetworktimes.com/daltonlar-cetesi-operasyonunda-4-supheli-daha-adliyede/ was scraped
+2023-12-03 00:22:58,503 - INFO -  Thread 270is completed in 5.687702894210815 second.
+2023-12-03 00:22:58,720 - INFO -  Data on https://turkishnetworktimes.com/eymenin-oldurulmesinde-anne-ve-sevgilinin-cezalari-onandi/ was scraped
+2023-12-03 00:22:58,728 - INFO -  Thread 271is completed in 5.912614345550537 second.
+2023-12-03 00:22:58,907 - INFO -  Data on https://turkishnetworktimes.com/ankarada-tartistigi-erkek-arkadasini-tabancayla-oldurdu/ was scraped
+2023-12-03 00:22:58,912 - INFO -  Thread 272is completed in 6.096265554428101 second.
+2023-12-03 00:22:59,084 - INFO -  Data on https://turkishnetworktimes.com/erzurumda-okullar-tatil/ was scraped
+2023-12-03 00:22:59,090 - INFO -  Thread 273is completed in 6.274085760116577 second.
+2023-12-03 00:22:59,349 - INFO -  Data on https://turkishnetworktimes.com/esenler-tem-baglanti-yolunda-seyir-halindeki-otomobile-silahli-saldiri-1-olu-1-yarali/ was scraped
+2023-12-03 00:22:59,356 - INFO -  Thread 274is completed in 6.54032826423645 second.
+2023-12-03 00:23:02,431 - INFO -  Data on https://turkishnetworktimes.com/kavga-ettigi-kisiden-kacarken-catidan-duserek-yaralandi/ was scraped
+2023-12-03 00:23:02,438 - INFO -  Thread 275is completed in 9.622575283050537 second.
+2023-12-03 00:23:02,439 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:23:10,435 - INFO -  Data on https://turkishnetworktimes.com/bakan-yerlikaya-81-ilde-1034-firari-suclu-yakalandi/ was scraped
+2023-12-03 00:23:10,444 - INFO -  Thread 276is completed in 2.9997754096984863 second.
+2023-12-03 00:23:10,734 - INFO -  Data on https://turkishnetworktimes.com/beylikduzunde-3-katli-binanin-catisi-alev-alev-yandi/ was scraped
+2023-12-03 00:23:10,743 - INFO -  Thread 277is completed in 3.2987594604492188 second.
+2023-12-03 00:23:13,714 - INFO -  Data on https://turkishnetworktimes.com/cantasinda-gps-cihazi-cikan-semih-kayanin-ifadesi-ortaya-cikti/ was scraped
+2023-12-03 00:23:13,721 - INFO -  Thread 278is completed in 6.2776939868927 second.
+2023-12-03 00:23:16,802 - INFO -  Data on https://turkishnetworktimes.com/izmir-merkezli-10-ilde-sibergoz-7-operasyonunda-53-supheli-adliyede/ was scraped
+2023-12-03 00:23:16,816 - INFO -  Thread 279is completed in 9.372064590454102 second.
+2023-12-03 00:23:19,793 - INFO -  Data on https://turkishnetworktimes.com/bakirkoy-sahil-yolunda-agac-yola-devrildi/ was scraped
+2023-12-03 00:23:19,800 - INFO -  Thread 280is completed in 12.355787992477417 second.
+2023-12-03 00:23:20,042 - INFO -  Data on https://turkishnetworktimes.com/ibb-meclisinde-gazzeye-kizilay-uzerinden-yardim-yapma-teklifi-gerginlik-yaratti/ was scraped
+2023-12-03 00:23:20,052 - INFO -  Thread 281is completed in 12.607760906219482 second.
+2023-12-03 00:23:20,289 - INFO -  Data on https://turkishnetworktimes.com/msu-rektoru-afyoncu-ekonomik-isbirligi-teskilati-tarafindan-odule-layik-goruldu/ was scraped
+2023-12-03 00:23:20,300 - INFO -  Thread 282is completed in 12.856598854064941 second.
+2023-12-03 00:23:20,547 - INFO -  Data on https://turkishnetworktimes.com/hulusi-akar-yonetimler-ve-yoneticiler-kor-ve-sagir-olsa-da-dunya-gercekten-ayakta/ was scraped
+2023-12-03 00:23:20,554 - INFO -  Thread 283is completed in 13.110284566879272 second.
+2023-12-03 00:23:20,759 - INFO -  Data on https://turkishnetworktimes.com/yerli-mobilya-markasi-kayseride-150-engelliye-akulu-arac-bagisladi/ was scraped
+2023-12-03 00:23:20,766 - INFO -  Thread 284is completed in 13.322369813919067 second.
+2023-12-03 00:23:21,017 - INFO -  Data on https://turkishnetworktimes.com/abd-baskonsoloslugu-irtibat-gorevlisi-metin-topuz-tahliye-edildi/ was scraped
+2023-12-03 00:23:21,026 - INFO -  Thread 285is completed in 13.58228588104248 second.
+2023-12-03 00:23:23,953 - INFO -  Data on https://turkishnetworktimes.com/erzurumda-buz-pistine-donen-yolda-zincirleme-kaza/ was scraped
+2023-12-03 00:23:23,958 - INFO -  Thread 286is completed in 16.51438283920288 second.
+2023-12-03 00:23:27,031 - INFO -  Data on https://turkishnetworktimes.com/bakan-yerlikaya-ust-duzey-emniyet-mensuplariyla-suc-orgutleri-konulu-toplanti-yapti/ was scraped
+2023-12-03 00:23:27,037 - INFO -  Thread 287is completed in 19.593122482299805 second.
+2023-12-03 00:23:30,224 - INFO -  Data on https://turkishnetworktimes.com/ev-sahibi-kiracisini-balta-ile-yaraladi-olay-ani-kamerada/ was scraped
+2023-12-03 00:23:30,231 - INFO -  Thread 288is completed in 22.78699803352356 second.
+2023-12-03 00:23:33,087 - INFO -  Data on https://turkishnetworktimes.com/belediye-otobusu-ile-otomobil-kafa-kafaya-carpisti-1-olu-2-yarali/ was scraped
+2023-12-03 00:23:33,094 - INFO -  Thread 289is completed in 25.65056276321411 second.
+2023-12-03 00:23:35,815 - INFO -  Data on https://turkishnetworktimes.com/bodrumda-3-sokak-kopegi-kamyonetle-goturuldu-o-anlar-kamerada/ was scraped
+2023-12-03 00:23:35,822 - INFO -  Thread 290is completed in 28.378032207489014 second.
+2023-12-03 00:23:36,320 - INFO -  Data on https://turkishnetworktimes.com/bakirkoyde-dalgalara-kapilan-cok-sayida-yavru-kedi-oldu/ was scraped
+2023-12-03 00:23:36,329 - INFO -  Thread 291is completed in 28.885700464248657 second.
+2023-12-03 00:23:36,623 - INFO -  Data on https://turkishnetworktimes.com/cocugun-cinsel-istismari-sucundan-6-yil-hapisle-aranan-hukumlu-yakalandi/ was scraped
+2023-12-03 00:23:36,629 - INFO -  Thread 292is completed in 29.185388803482056 second.
+2023-12-03 00:23:37,264 - INFO -  Data on https://turkishnetworktimes.com/firtina-nedeni-ile-piste-inemeyen-ucak-kamerada/ was scraped
+2023-12-03 00:23:37,271 - INFO -  Thread 293is completed in 29.82762360572815 second.
+2023-12-03 00:23:37,500 - INFO -  Data on https://turkishnetworktimes.com/operator-tartistigi-iscilerin-pesinden-is-makinesiyle-gitti/ was scraped
+2023-12-03 00:23:37,506 - INFO -  Thread 294is completed in 30.061795234680176 second.
+2023-12-03 00:23:37,738 - INFO -  Data on https://turkishnetworktimes.com/istinaf-mahkemesi-karari-bozdu-bitcoin-safiye-52-gun-sonra-tahliye-oldu/ was scraped
+2023-12-03 00:23:37,747 - INFO -  Thread 295is completed in 30.303117990493774 second.
+2023-12-03 00:23:40,528 - INFO -  Data on https://turkishnetworktimes.com/ogun-samast-hakkindaki-dava-birlestirildi/ was scraped
+2023-12-03 00:23:40,537 - INFO -  Thread 296is completed in 33.09306788444519 second.
+2023-12-03 00:23:43,730 - INFO -  Data on https://turkishnetworktimes.com/sislide-eczaci-kalfasi-cinayetine-18-yil-hapis/ was scraped
+2023-12-03 00:23:43,736 - INFO -  Thread 297is completed in 36.29262685775757 second.
+2023-12-03 00:23:46,980 - INFO -  Data on https://turkishnetworktimes.com/aksam-arkadaslariyla-dogum-gununu-kutladi-sabah-evinde-olu-bulundu/ was scraped
+2023-12-03 00:23:46,987 - INFO -  Thread 298is completed in 39.54323863983154 second.
+2023-12-03 00:23:49,956 - INFO -  Data on https://turkishnetworktimes.com/silahli-kavgada-basindan-yaralandi-7-gun-sonra-oldu/ was scraped
+2023-12-03 00:23:49,961 - INFO -  Thread 299is completed in 42.517430543899536 second.
+2023-12-03 00:23:52,930 - INFO -  Data on https://turkishnetworktimes.com/musta-firtina-4-is-yerinin-catisi-uctu/ was scraped
+2023-12-03 00:23:52,937 - INFO -  Thread 300is completed in 45.49310493469238 second.
+2023-12-03 00:23:52,937 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:23:58,268 - INFO -  Data on https://turkishnetworktimes.com/yanginda-dumandan-etkilenen-eski-bakanin-annesi-gozetim-altinda/ was scraped
+2023-12-03 00:23:58,280 - INFO -  Thread 301is completed in 0.33785533905029297 second.
+2023-12-03 00:23:58,549 - INFO -  Data on https://turkishnetworktimes.com/rusyadan-gazzeye-15-tonluk-insani-yardim/ was scraped
+2023-12-03 00:23:58,555 - INFO -  Thread 302is completed in 0.6128382682800293 second.
+2023-12-03 00:23:59,115 - INFO -  Data on https://turkishnetworktimes.com/smali-aytun-bebegin-kampanyasinda-yuzde-90a-ulasildi/ was scraped
+2023-12-03 00:23:59,121 - INFO -  Thread 303is completed in 1.1789228916168213 second.
+2023-12-03 00:23:59,308 - INFO -  Data on https://turkishnetworktimes.com/prof-dr-azbar-aniz-yakmak-deste-deste-parayi-yakmak-demektir/ was scraped
+2023-12-03 00:23:59,314 - INFO -  Thread 304is completed in 1.3713185787200928 second.
+2023-12-03 00:23:59,515 - INFO -  Data on https://turkishnetworktimes.com/bilim-tiri-sakrak-deprem-bolgesindeki-cocuklara-ulasti/ was scraped
+2023-12-03 00:23:59,521 - INFO -  Thread 305is completed in 1.578291416168213 second.
+2023-12-03 00:23:59,735 - INFO -  Data on https://turkishnetworktimes.com/kurtulmus-filistin-devleti-kurulmadan-orta-doguda-baris-olmayacak/ was scraped
+2023-12-03 00:23:59,740 - INFO -  Thread 306is completed in 1.797764539718628 second.
+2023-12-03 00:23:59,909 - INFO -  Data on https://turkishnetworktimes.com/dicle-nehrine-atlayan-2-kiz-kardesten-1i-kurtarildi-digeri-araniyor/ was scraped
+2023-12-03 00:23:59,915 - INFO -  Thread 307is completed in 1.9729723930358887 second.
+2023-12-03 00:24:00,169 - INFO -  Data on https://turkishnetworktimes.com/tiktokta-para-karsiligi-mustehcen-canli-yayin-yapan-kadin-gozaltina-alindi/ was scraped
+2023-12-03 00:24:00,175 - INFO -  Thread 308is completed in 2.2322230339050293 second.
+2023-12-03 00:24:00,372 - INFO -  Data on https://turkishnetworktimes.com/tbb-baskani-sagkan-adli-yardim-toplumun-dezavantajli-gruplara-karsi-yukumlulugudur/ was scraped
+2023-12-03 00:24:00,383 - INFO -  Thread 309is completed in 2.4403367042541504 second.
+2023-12-03 00:24:00,586 - INFO -  Data on https://turkishnetworktimes.com/sevgilisini-2nci-kattan-bosluga-itip-basinda-bicakla-bekleyen-kadin-dengesini-kaybedip-dustu/ was scraped
+2023-12-03 00:24:00,593 - INFO -  Thread 310is completed in 2.6507134437561035 second.
+2023-12-03 00:24:00,768 - INFO -  Data on https://turkishnetworktimes.com/hamas-esirlerin-birakilma-goruntulerini-paylasti/ was scraped
+2023-12-03 00:24:00,775 - INFO -  Thread 311is completed in 2.832202672958374 second.
+2023-12-03 00:24:00,998 - INFO -  Data on https://turkishnetworktimes.com/bozcaada-ve-gokceadaya-yarinki-feribot-seferleri-iptal/ was scraped
+2023-12-03 00:24:01,004 - INFO -  Thread 312is completed in 3.0619587898254395 second.
+2023-12-03 00:24:01,233 - INFO -  Data on https://turkishnetworktimes.com/bugrahan-okula-giderken-otomobilin-carpmasiyla-oldu/ was scraped
+2023-12-03 00:24:01,238 - INFO -  Thread 313is completed in 3.2960052490234375 second.
+2023-12-03 00:24:01,452 - INFO -  Data on https://turkishnetworktimes.com/icisleri-bakanligi-18-ilde-pkk-kck-uyesi-98-supheli-yakalandi/ was scraped
+2023-12-03 00:24:01,458 - INFO -  Thread 314is completed in 3.5151240825653076 second.
+2023-12-03 00:24:01,693 - INFO -  Data on https://turkishnetworktimes.com/ataturk-havalimaninda-ozel-ucak-pistten-cikti/ was scraped
+2023-12-03 00:24:01,701 - INFO -  Thread 315is completed in 3.758549928665161 second.
+2023-12-03 00:24:02,016 - INFO -  Data on https://turkishnetworktimes.com/fatihte-tekne-sahipleri-arasinda-silahli-kavga-1-olu/ was scraped
+2023-12-03 00:24:02,023 - INFO -  Thread 316is completed in 4.080672264099121 second.
+2023-12-03 00:24:02,208 - INFO -  Data on https://turkishnetworktimes.com/adanada-14-katli-apartmanda-yangin/ was scraped
+2023-12-03 00:24:02,216 - INFO -  Thread 317is completed in 4.2731781005859375 second.
+2023-12-03 00:24:02,401 - INFO -  Data on https://turkishnetworktimes.com/chp-genel-baskani-ozelin-bosna-hersek-temaslari/ was scraped
+2023-12-03 00:24:02,407 - INFO -  Thread 318is completed in 4.464476108551025 second.
+2023-12-03 00:24:02,606 - INFO -  Data on https://turkishnetworktimes.com/bm-koordinatoru-gecici-ateskesin-basarili-bir-sekilde-ilerledigini-belirtti/ was scraped
+2023-12-03 00:24:02,614 - INFO -  Thread 319is completed in 4.671139717102051 second.
+2023-12-03 00:24:02,818 - INFO -  Data on https://turkishnetworktimes.com/tayland-disisleri-10-vatandasinin-refahdan-israile-gectigini-dogruladi/ was scraped
+2023-12-03 00:24:02,825 - INFO -  Thread 320is completed in 4.882276296615601 second.
+2023-12-03 00:24:06,127 - INFO -  Data on https://turkishnetworktimes.com/belcika-basbakani-de-croodan-netanyahuya-cevap/ was scraped
+2023-12-03 00:24:06,133 - INFO -  Thread 321is completed in 8.190312623977661 second.
+2023-12-03 00:24:09,341 - INFO -  Data on https://turkishnetworktimes.com/kripto-para-cetesine-operasyonda-3-tutuklama/ was scraped
+2023-12-03 00:24:09,348 - INFO -  Thread 322is completed in 11.405928134918213 second.
+2023-12-03 00:24:12,586 - INFO -  Data on https://turkishnetworktimes.com/11inci-kattan-dusen-esin-olumunde-saniga-beraat-onandi/ was scraped
+2023-12-03 00:24:12,593 - INFO -  Thread 323is completed in 14.650745868682861 second.
+2023-12-03 00:24:15,875 - INFO -  Data on https://turkishnetworktimes.com/sokakta-yuruyen-kadini-tabancayla-vurdu-evinde-el-yapimi-patlayici-bulundu/ was scraped
+2023-12-03 00:24:15,882 - INFO -  Thread 324is completed in 17.9391508102417 second.
+2023-12-03 00:24:18,951 - INFO -  Data on https://turkishnetworktimes.com/istanbulda-motosiklet-hirsizlarina-operasyon-3-supheli-tutuklandi/ was scraped
+2023-12-03 00:24:18,958 - INFO -  Thread 325is completed in 21.015573024749756 second.
+2023-12-03 00:24:18,958 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:24:27,226 - INFO -  Data on https://turkishnetworktimes.com/artvinde-firtina-kuru-yuk-gemisi-karaya-oturdu-13-kisi-kurtarildi/ was scraped
+2023-12-03 00:24:27,234 - INFO -  Thread 326is completed in 3.2734718322753906 second.
+2023-12-03 00:24:27,456 - INFO -  Data on https://turkishnetworktimes.com/burdurda-kayip-avci-araniyor/ was scraped
+2023-12-03 00:24:27,462 - INFO -  Thread 327is completed in 3.501293420791626 second.
+2023-12-03 00:24:30,227 - INFO -  Data on https://turkishnetworktimes.com/alacak-tartismasinda-basindan-vurularak-olduruldu/ was scraped
+2023-12-03 00:24:30,232 - INFO -  Thread 328is completed in 6.271540880203247 second.
+2023-12-03 00:24:33,261 - INFO -  Data on https://turkishnetworktimes.com/lise-ogrencisine-taciz-iddiasiyla-tutuklanan-polis-adli-kontrolle-serbest/ was scraped
+2023-12-03 00:24:33,266 - INFO -  Thread 329is completed in 9.305299282073975 second.
+2023-12-03 00:24:36,137 - INFO -  Data on https://turkishnetworktimes.com/rizede-dalgalar-kara-yoluna-ulasti/ was scraped
+2023-12-03 00:24:36,143 - INFO -  Thread 330is completed in 12.182177066802979 second.
+2023-12-03 00:24:36,676 - INFO -  Data on https://turkishnetworktimes.com/emekli-ogretmen-eski-kayinbiraderini-av-tufegiyle-oldurdu/ was scraped
+2023-12-03 00:24:36,683 - INFO -  Thread 331is completed in 12.722021579742432 second.
+2023-12-03 00:24:36,915 - INFO -  Data on https://turkishnetworktimes.com/israil-gecici-ateskes-oncesinde-bazi-tunelleri-yok-ettigini-acikladi/ was scraped
+2023-12-03 00:24:36,922 - INFO -  Thread 332is completed in 12.961635112762451 second.
+2023-12-03 00:24:37,116 - INFO -  Data on https://turkishnetworktimes.com/hindistanda-coken-tunelde-mahsur-kalan-iscilerin-kurtarilma-calismalarina-ara-verildi/ was scraped
+2023-12-03 00:24:37,124 - INFO -  Thread 333is completed in 13.162643194198608 second.
+2023-12-03 00:24:37,342 - INFO -  Data on https://turkishnetworktimes.com/turkiye-ab-goc-ve-guvenlik-yuksek-duzeyli-diyalogu-ortak-aciklamasi/ was scraped
+2023-12-03 00:24:37,348 - INFO -  Thread 334is completed in 13.387457370758057 second.
+2023-12-03 00:24:37,548 - INFO -  Data on https://turkishnetworktimes.com/irlandada-bicakli-saldiri-sonrasi-siddet-olaylari-meydana-geldi/ was scraped
+2023-12-03 00:24:37,554 - INFO -  Thread 335is completed in 13.592979431152344 second.
+2023-12-03 00:24:37,784 - INFO -  Data on https://turkishnetworktimes.com/bodrumda-biri-sahilde-digeri-denizde-2-erkek-cesedi-bulundu/ was scraped
+2023-12-03 00:24:37,789 - INFO -  Thread 336is completed in 13.828644275665283 second.
+2023-12-03 00:24:38,019 - INFO -  Data on https://turkishnetworktimes.com/manisada-yagis-sonrasi-spor-tesisinin-istinat-duvari-coktu-kentte-motosiklet-kullanimina-yasak-getirildi/ was scraped
+2023-12-03 00:24:38,024 - INFO -  Thread 337is completed in 14.063557624816895 second.
+2023-12-03 00:24:38,281 - INFO -  Data on https://turkishnetworktimes.com/konyada-11-katli-apartmanda-cikan-yanginda-eski-bakanin-annesi-dumandan-etkilendi/ was scraped
+2023-12-03 00:24:38,381 - INFO -  Thread 338is completed in 14.420263290405273 second.
+2023-12-03 00:24:38,627 - INFO -  Data on https://turkishnetworktimes.com/turk-murettebatin-da-gorev-yaptigi-gemiden-yemen-aciklarinda-iletisim-kesildi/ was scraped
+2023-12-03 00:24:38,634 - INFO -  Thread 339is completed in 14.672643661499023 second.
+2023-12-03 00:24:38,852 - INFO -  Data on https://turkishnetworktimes.com/samsunda-firtina-nedeniyle-elektrik-direkleri-devrildi/ was scraped
+2023-12-03 00:24:38,860 - INFO -  Thread 340is completed in 14.898706436157227 second.
+2023-12-03 00:24:39,074 - INFO -  Data on https://turkishnetworktimes.com/amasyada-hafif-ticari-arac-ile-otomobil-carpisti-7-yarali/ was scraped
+2023-12-03 00:24:39,081 - INFO -  Thread 341is completed in 15.120095252990723 second.
+2023-12-03 00:24:39,352 - INFO -  Data on https://turkishnetworktimes.com/tokatta-otomobil-virajli-yolda-devrildi-5-yarali/ was scraped
+2023-12-03 00:24:39,357 - INFO -  Thread 342is completed in 15.395813941955566 second.
+2023-12-03 00:24:40,676 - INFO -  Data on https://turkishnetworktimes.com/firtinadan-korunmak-icin-girdikleri-baraka-yikildi-1-olu-3-yarali/ was scraped
+2023-12-03 00:24:40,683 - INFO -  Thread 343is completed in 16.722246170043945 second.
+2023-12-03 00:24:40,942 - INFO -  Data on https://turkishnetworktimes.com/bakan-bolat-esendere-gumruk-kapisinda-2-aracta-1197-kilo-uyusturucu-ele-gecirildi/ was scraped
+2023-12-03 00:24:40,949 - INFO -  Thread 344is completed in 16.987735271453857 second.
+2023-12-03 00:24:41,137 - INFO -  Data on https://turkishnetworktimes.com/hakkaride-firari-hukumlu-ve-aranan-suphelilere-operasyon-100-gozalti/ was scraped
+2023-12-03 00:24:41,143 - INFO -  Thread 345is completed in 17.182627201080322 second.
+2023-12-03 00:24:41,387 - INFO -  Data on https://turkishnetworktimes.com/fuhus-operasyonunda-bir-kadinin-cantasindan-musteri-listesi-cikti/ was scraped
+2023-12-03 00:24:41,393 - INFO -  Thread 346is completed in 17.43189001083374 second.
+2023-12-03 00:24:41,675 - INFO -  Data on https://turkishnetworktimes.com/ankarada-silahli-kavga-1-yarali-5-gozalti/ was scraped
+2023-12-03 00:24:41,682 - INFO -  Thread 347is completed in 17.720892429351807 second.
+2023-12-03 00:24:41,940 - INFO -  Data on https://turkishnetworktimes.com/afad-yurt-genelindeki-firtinada-2-kisi-oldu-4u-asker-10-kisi-yaralandi/ was scraped
+2023-12-03 00:24:41,946 - INFO -  Thread 348is completed in 17.985366344451904 second.
+2023-12-03 00:24:42,292 - INFO -  Data on https://turkishnetworktimes.com/tokatta-evin-catisi-uctu-2-otomobil-hasar-gordu/ was scraped
+2023-12-03 00:24:42,299 - INFO -  Thread 349is completed in 18.33836555480957 second.
+2023-12-03 00:24:42,530 - INFO -  Data on https://turkishnetworktimes.com/trabzonda-orman-yangini-2-itfaiye-eri-dumandan-etkilendi/ was scraped
+2023-12-03 00:24:42,535 - INFO -  Thread 350is completed in 18.574469804763794 second.
+2023-12-03 00:24:42,535 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:24:47,832 - INFO -  Data on https://turkishnetworktimes.com/destici-501i-bu-sistemin-olmazsa-olmazi-olarak-goruyoruz/ was scraped
+2023-12-03 00:24:47,838 - INFO -  Thread 351is completed in 0.2970402240753174 second.
+2023-12-03 00:24:48,125 - INFO -  Data on https://turkishnetworktimes.com/motorlu-kuryenin-tepki-ceken-paylasimlari/ was scraped
+2023-12-03 00:24:48,132 - INFO -  Thread 352is completed in 0.5915300846099854 second.
+2023-12-03 00:24:48,614 - INFO -  Data on https://turkishnetworktimes.com/corumda-firtina-binaya-yildirim-isabet-etti-agaclar-devrildi/ was scraped
+2023-12-03 00:24:48,621 - INFO -  Thread 353is completed in 1.0803577899932861 second.
+2023-12-03 00:24:48,972 - INFO -  Data on https://turkishnetworktimes.com/umraniyede-polise-carpan-arac-surucusu-tutuklandi/ was scraped
+2023-12-03 00:24:48,978 - INFO -  Thread 354is completed in 1.4368541240692139 second.
+2023-12-03 00:24:49,201 - INFO -  Data on https://turkishnetworktimes.com/gurultu-tartismasinda-komsusu-oldurmustu-son-yolculuguna-ugurlandi/ was scraped
+2023-12-03 00:24:49,207 - INFO -  Thread 355is completed in 1.6659626960754395 second.
+2023-12-03 00:24:49,438 - INFO -  Data on https://turkishnetworktimes.com/istanbul-valiliginden-firtina-aciklamasi-114-olaya-mudahale-edildi/ was scraped
+2023-12-03 00:24:49,443 - INFO -  Thread 356is completed in 1.9019739627838135 second.
+2023-12-03 00:24:49,645 - INFO -  Data on https://turkishnetworktimes.com/otoyolda-tir-devrildi-tonlarca-tahil-yola-dokuldu/ was scraped
+2023-12-03 00:24:49,651 - INFO -  Thread 357is completed in 2.110116720199585 second.
+2023-12-03 00:24:49,826 - INFO -  Data on https://turkishnetworktimes.com/secil-erzanin-corludaki-banka-kasasinda-altin-bulundu/ was scraped
+2023-12-03 00:24:49,831 - INFO -  Thread 358is completed in 2.2907071113586426 second.
+2023-12-03 00:24:50,039 - INFO -  Data on https://turkishnetworktimes.com/gazeteci-mehmet-akif-ersoy-yeni-medya-soylesilerinin-konugu-oldu/ was scraped
+2023-12-03 00:24:50,044 - INFO -  Thread 359is completed in 2.503673553466797 second.
+2023-12-03 00:24:51,302 - INFO -  Data on https://turkishnetworktimes.com/esini-oldurup-annesini-agir-yaraladi/ was scraped
+2023-12-03 00:24:51,308 - INFO -  Thread 360is completed in 3.7671432495117188 second.
+2023-12-03 00:24:51,565 - INFO -  Data on https://turkishnetworktimes.com/bakan-bayraktar-dagitim-hatlarindaki-arizalara-mudahale-edilmektedir/ was scraped
+2023-12-03 00:24:51,572 - INFO -  Thread 361is completed in 4.030775308609009 second.
+2023-12-03 00:24:51,802 - INFO -  Data on https://turkishnetworktimes.com/deniz-kuvvetleri-dalgiclari-ereglide-bugune-kadar-3-gemicinin-cansiz-bedenine-ulasti/ was scraped
+2023-12-03 00:24:51,808 - INFO -  Thread 362is completed in 4.266814947128296 second.
+2023-12-03 00:24:52,060 - INFO -  Data on https://turkishnetworktimes.com/yatirim-vaadiyle-18-kisiyi-14-milyon-tl-dolandiran-supheli-yakalandi/ was scraped
+2023-12-03 00:24:52,073 - INFO -  Thread 363is completed in 4.532084226608276 second.
+2023-12-03 00:24:52,377 - INFO -  Data on https://turkishnetworktimes.com/kagithanede-catidan-kopan-parcalar-otomobillerin-uzerine-dustu/ was scraped
+2023-12-03 00:24:52,383 - INFO -  Thread 364is completed in 4.84269380569458 second.
+2023-12-03 00:24:52,848 - INFO -  Data on https://turkishnetworktimes.com/fatihte-cokme-yasanan-metruk-binada-yikim-baslatildi/ was scraped
+2023-12-03 00:24:52,854 - INFO -  Thread 365is completed in 5.312980890274048 second.
+2023-12-03 00:24:53,054 - INFO -  Data on https://turkishnetworktimes.com/kaza-sonrasi-kalp-masaji-yapilan-surucu-hastanede-hayatini-kaybetti/ was scraped
+2023-12-03 00:24:53,060 - INFO -  Thread 366is completed in 5.519435405731201 second.
+2023-12-03 00:24:53,277 - INFO -  Data on https://turkishnetworktimes.com/hastanede-kayit-disi-estetik-sorusturmasinda-2si-doktor-8-supheli-serbest/ was scraped
+2023-12-03 00:24:53,283 - INFO -  Thread 367is completed in 5.742193222045898 second.
+2023-12-03 00:24:53,491 - INFO -  Data on https://turkishnetworktimes.com/epozdemir-siddet-goren-kadinlar-mutlaka-hukuki-yollara-basvurmali/ was scraped
+2023-12-03 00:24:53,496 - INFO -  Thread 368is completed in 5.9549267292022705 second.
+2023-12-03 00:24:53,766 - INFO -  Data on https://turkishnetworktimes.com/trakyanin-yukseklerine-kar-yagdi/ was scraped
+2023-12-03 00:24:53,773 - INFO -  Thread 369is completed in 6.2321836948394775 second.
+2023-12-03 00:24:53,995 - INFO -  Data on https://turkishnetworktimes.com/istanbulda-kacak-gocmen-operasyonu-262-kisi-yakalandi/ was scraped
+2023-12-03 00:24:54,000 - INFO -  Thread 370is completed in 6.459512948989868 second.
+2023-12-03 00:24:54,227 - INFO -  Data on https://turkishnetworktimes.com/amasrada-firtina-balikci-tekneleri-ile-destek-gemileri-limana-cekildi/ was scraped
+2023-12-03 00:24:54,234 - INFO -  Thread 371is completed in 6.693593740463257 second.
+2023-12-03 00:24:54,404 - INFO -  Data on https://turkishnetworktimes.com/esini-bicaklayan-suphelinin-gozaltina-alinirken-kucagindaki-bebek-devlet-korumasinda/ was scraped
+2023-12-03 00:24:54,412 - INFO -  Thread 372is completed in 6.87081503868103 second.
+2023-12-03 00:24:54,613 - INFO -  Data on https://turkishnetworktimes.com/otomobilin-carptigi-yaya-oldu-surucu-40-gundur-yakalanamadi/ was scraped
+2023-12-03 00:24:54,622 - INFO -  Thread 373is completed in 7.080806493759155 second.
+2023-12-03 00:24:54,813 - INFO -  Data on https://turkishnetworktimes.com/sultangazide-firtinanin-etkisiyle-is-yerinin-tabelasi-uctu/ was scraped
+2023-12-03 00:24:54,818 - INFO -  Thread 374is completed in 7.277094841003418 second.
+2023-12-03 00:24:54,993 - INFO -  Data on https://turkishnetworktimes.com/firtinada-mahsur-kalan-balikciyi-oglu-kurtardi/ was scraped
+2023-12-03 00:24:55,000 - INFO -  Thread 375is completed in 7.459181070327759 second.
+2023-12-03 00:24:55,000 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:25:00,427 - INFO -  Data on https://turkishnetworktimes.com/gaziosmanpasada-taciz-iddiasi-sonrasi-dayak/ was scraped
+2023-12-03 00:25:00,433 - INFO -  Thread 376is completed in 0.4288160800933838 second.
+2023-12-03 00:25:00,682 - INFO -  Data on https://turkishnetworktimes.com/bursada-3-gundur-kayip-olarak-aranan-furkan-barakada-olu-bulundu/ was scraped
+2023-12-03 00:25:00,688 - INFO -  Thread 377is completed in 0.6840076446533203 second.
+2023-12-03 00:25:00,909 - INFO -  Data on https://turkishnetworktimes.com/beylikduzunde-kadina-yonelik-siddete-karsi-farkindalik-yaratildi/ was scraped
+2023-12-03 00:25:00,915 - INFO -  Thread 378is completed in 0.9111728668212891 second.
+2023-12-03 00:25:01,104 - INFO -  Data on https://turkishnetworktimes.com/feto-uyeliginden-aranan-ozel-kalem-muduru-yakalandi/ was scraped
+2023-12-03 00:25:01,111 - INFO -  Thread 379is completed in 1.1069416999816895 second.
+2023-12-03 00:25:01,328 - INFO -  Data on https://turkishnetworktimes.com/izmit-belediye-baskani-hakkinda-ihalede-usulsuzluk-iddiasina-sorusturma-izni/ was scraped
+2023-12-03 00:25:01,335 - INFO -  Thread 380is completed in 1.3311913013458252 second.
+2023-12-03 00:25:01,538 - INFO -  Data on https://turkishnetworktimes.com/diyarbakirda-otomobil-change-suphelilerine-kasis-operasyonu-7-gozalti/ was scraped
+2023-12-03 00:25:01,546 - INFO -  Thread 381is completed in 1.542370080947876 second.
+2023-12-03 00:25:01,760 - INFO -  Data on https://turkishnetworktimes.com/samsunda-silahli-kavga-3-yarali-8-gozalti/ was scraped
+2023-12-03 00:25:01,765 - INFO -  Thread 382is completed in 1.7607672214508057 second.
+2023-12-03 00:25:01,990 - INFO -  Data on https://turkishnetworktimes.com/hatayda-jandarma-ve-polisten-2-ayri-uyusturucu-operasyonu-2-tutuklama/ was scraped
+2023-12-03 00:25:01,998 - INFO -  Thread 383is completed in 1.9940638542175293 second.
+2023-12-03 00:25:02,312 - INFO -  Data on https://turkishnetworktimes.com/halde-cikan-yanginda-10-dukkan-zarar-gordu/ was scraped
+2023-12-03 00:25:02,318 - INFO -  Thread 384is completed in 2.3141543865203857 second.
+2023-12-03 00:25:02,541 - INFO -  Data on https://turkishnetworktimes.com/konyada-minibus-refuje-carpti-3-olu-4-yarali/ was scraped
+2023-12-03 00:25:02,548 - INFO -  Thread 385is completed in 2.543654203414917 second.
+2023-12-03 00:25:02,743 - INFO -  Data on https://turkishnetworktimes.com/hatayda-uyusturucu-ve-tarihi-eser-kacakciligi-operasyonu-3-gozalti/ was scraped
+2023-12-03 00:25:02,751 - INFO -  Thread 386is completed in 2.746570110321045 second.
+2023-12-03 00:25:02,948 - INFO -  Data on https://turkishnetworktimes.com/ankarada-kuvvetli-ruzgarda-devrilen-agac-otomobilin-uzerine-dustu/ was scraped
+2023-12-03 00:25:02,955 - INFO -  Thread 387is completed in 2.9511618614196777 second.
+2023-12-03 00:25:03,189 - INFO -  Data on https://turkishnetworktimes.com/hayvancilik-destekleri-artirildi/ was scraped
+2023-12-03 00:25:03,194 - INFO -  Thread 388is completed in 3.1896004676818848 second.
+2023-12-03 00:25:03,418 - INFO -  Data on https://turkishnetworktimes.com/bakan-yerlikaya-10-ilde-25-dolandiricilik-suphelisi-yakalandi/ was scraped
+2023-12-03 00:25:03,423 - INFO -  Thread 389is completed in 3.418937921524048 second.
+2023-12-03 00:25:03,657 - INFO -  Data on https://turkishnetworktimes.com/silivride-firtina-is-yerlerini-su-basti/ was scraped
+2023-12-03 00:25:03,663 - INFO -  Thread 390is completed in 3.658674478530884 second.
+2023-12-03 00:25:03,884 - INFO -  Data on https://turkishnetworktimes.com/bakan-yerlikaya-brukselde/ was scraped
+2023-12-03 00:25:03,890 - INFO -  Thread 391is completed in 3.8864359855651855 second.
+2023-12-03 00:25:04,141 - INFO -  Data on https://turkishnetworktimes.com/kirmizi-bultenle-araniyordu-amasyada-yakalandi/ was scraped
+2023-12-03 00:25:04,148 - INFO -  Thread 392is completed in 4.14393162727356 second.
+2023-12-03 00:25:04,357 - INFO -  Data on https://turkishnetworktimes.com/firari-cete-lideri-izmirde-yakalandi/ was scraped
+2023-12-03 00:25:04,364 - INFO -  Thread 393is completed in 4.359553337097168 second.
+2023-12-03 00:25:04,573 - INFO -  Data on https://turkishnetworktimes.com/13-yasinda-cocuk-av-tufegiyle-oynarken-kazara-annesini-vurdu/ was scraped
+2023-12-03 00:25:04,578 - INFO -  Thread 394is completed in 4.574082136154175 second.
+2023-12-03 00:25:04,798 - INFO -  Data on https://turkishnetworktimes.com/tartistigi-oglunu-tabanca-ile-bacagindan-yaraladi/ was scraped
+2023-12-03 00:25:04,804 - INFO -  Thread 395is completed in 4.7995452880859375 second.
+2023-12-03 00:25:04,985 - INFO -  Data on https://turkishnetworktimes.com/filistin-kizilayi-hastalarin-kuzeyden-guneye-nakliyesinin-20-saat-surdugunu-acikladi/ was scraped
+2023-12-03 00:25:04,991 - INFO -  Thread 396is completed in 4.987450361251831 second.
+2023-12-03 00:25:05,189 - INFO -  Data on https://turkishnetworktimes.com/bakan-isikhan-tacikistanli-mevkidasi-kenja-ile-gorustu/ was scraped
+2023-12-03 00:25:05,196 - INFO -  Thread 397is completed in 5.192397356033325 second.
+2023-12-03 00:25:05,390 - INFO -  Data on https://turkishnetworktimes.com/bakan-isikhan-azerbaycan-ve-turk-sehitligini-ziyaret-etti/ was scraped
+2023-12-03 00:25:05,398 - INFO -  Thread 398is completed in 5.3935546875 second.
+2023-12-03 00:25:05,741 - INFO -  Data on https://turkishnetworktimes.com/msb-yunanistandan-turkiyeye-gonderilmeye-calisilan-3-kisi-yakalandi/ was scraped
+2023-12-03 00:25:05,748 - INFO -  Thread 399is completed in 5.743485689163208 second.
+2023-12-03 00:25:06,048 - INFO -  Data on https://turkishnetworktimes.com/bakirkoyde-turistleri-almak-icin-turk-yolculari-indiren-taksici-yakalandi/ was scraped
+2023-12-03 00:25:06,054 - INFO -  Thread 400is completed in 6.050478935241699 second.
+2023-12-03 00:25:06,055 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:25:11,487 - INFO -  Data on https://turkishnetworktimes.com/cankirida-esini-bicaklayarak-olduren-koca-tutuklandi/ was scraped
+2023-12-03 00:25:11,492 - INFO -  Thread 401is completed in 0.4325127601623535 second.
+2023-12-03 00:25:11,860 - INFO -  Data on https://turkishnetworktimes.com/fetoden-aranan-ihrac-hakim-tutuklandi/ was scraped
+2023-12-03 00:25:11,866 - INFO -  Thread 402is completed in 0.806171178817749 second.
+2023-12-03 00:25:12,106 - INFO -  Data on https://turkishnetworktimes.com/tokatta-bahceye-inen-ayi-fotokapanla-goruntulendi/ was scraped
+2023-12-03 00:25:12,111 - INFO -  Thread 403is completed in 1.0516037940979004 second.
+2023-12-03 00:25:12,555 - INFO -  Data on https://turkishnetworktimes.com/basaksehirde-depoda-yangin/ was scraped
+2023-12-03 00:25:12,563 - INFO -  Thread 404is completed in 1.503237009048462 second.
+2023-12-03 00:25:12,766 - INFO -  Data on https://turkishnetworktimes.com/itu-rektorluk-binasinda-yangin/ was scraped
+2023-12-03 00:25:12,772 - INFO -  Thread 405is completed in 1.7120649814605713 second.
+2023-12-03 00:25:12,963 - INFO -  Data on https://turkishnetworktimes.com/kurakliktan-1200-yasindaki-anit-agac-da-etkilendi-verimi-yari-yariya-azaldi/ was scraped
+2023-12-03 00:25:12,970 - INFO -  Thread 406is completed in 1.9100427627563477 second.
+2023-12-03 00:25:13,154 - INFO -  Data on https://turkishnetworktimes.com/taksim-meydani-kapatildi/ was scraped
+2023-12-03 00:25:13,163 - INFO -  Thread 407is completed in 2.103242874145508 second.
+2023-12-03 00:25:13,392 - INFO -  Data on https://turkishnetworktimes.com/kazada-yaralanan-motosikletli-yunus-emre-3-gun-sonra-yasamini-yitirdi/ was scraped
+2023-12-03 00:25:13,398 - INFO -  Thread 408is completed in 2.3378100395202637 second.
+2023-12-03 00:25:13,580 - INFO -  Data on https://turkishnetworktimes.com/isikhan-bakudeki-istihdam-hizmetlerinin-dijitallestirilmesi-konferansina-katildi/ was scraped
+2023-12-03 00:25:13,585 - INFO -  Thread 409is completed in 2.5253686904907227 second.
+2023-12-03 00:25:13,793 - INFO -  Data on https://turkishnetworktimes.com/kdk-karariyla-dogum-sonrasi-yari-zamanli-calisma-hakki-kazandi/ was scraped
+2023-12-03 00:25:13,799 - INFO -  Thread 410is completed in 2.7394793033599854 second.
+2023-12-03 00:25:14,030 - INFO -  Data on https://turkishnetworktimes.com/ruzgarda-kano-alabora-oldu-sporcular-can-simidiyle-kurtarildi/ was scraped
+2023-12-03 00:25:14,037 - INFO -  Thread 411is completed in 2.97676944732666 second.
+2023-12-03 00:25:14,255 - INFO -  Data on https://turkishnetworktimes.com/otomobil-aydinlatma-diregine-carpti-1i-agir-3-yarali/ was scraped
+2023-12-03 00:25:14,261 - INFO -  Thread 412is completed in 3.2013587951660156 second.
+2023-12-03 00:25:14,448 - INFO -  Data on https://turkishnetworktimes.com/batan-geminin-kayip-murettebatini-arama-calismalarinda-7nci-gun/ was scraped
+2023-12-03 00:25:14,456 - INFO -  Thread 413is completed in 3.3961875438690186 second.
+2023-12-03 00:25:14,685 - INFO -  Data on https://turkishnetworktimes.com/2-katli-ahsap-ev-yandi-alevlerin-arasinda-kalan-cift-yasamini-yitirdi/ was scraped
+2023-12-03 00:25:14,691 - INFO -  Thread 414is completed in 3.6313929557800293 second.
+2023-12-03 00:25:15,022 - INFO -  Data on https://turkishnetworktimes.com/gungorende-agac-otomobilin-uzerine-devrildi/ was scraped
+2023-12-03 00:25:15,029 - INFO -  Thread 415is completed in 3.96972393989563 second.
+2023-12-03 00:25:15,265 - INFO -  Data on https://turkishnetworktimes.com/bilecikte-14-kopegin-olumunde-gozaltina-alinan-4-supheli-tutuklandi/ was scraped
+2023-12-03 00:25:15,272 - INFO -  Thread 416is completed in 4.212361574172974 second.
+2023-12-03 00:25:15,508 - INFO -  Data on https://turkishnetworktimes.com/bakan-uraloglu-kis-lastigi-icin-kar-yagmasini-beklemeyin/ was scraped
+2023-12-03 00:25:15,516 - INFO -  Thread 417is completed in 4.456302881240845 second.
+2023-12-03 00:25:15,726 - INFO -  Data on https://turkishnetworktimes.com/yuksek-voltajdan-elektronik-cihazlarinin-bozuldugunu-one-suren-mahalleliden-protesto/ was scraped
+2023-12-03 00:25:15,731 - INFO -  Thread 418is completed in 4.670986890792847 second.
+2023-12-03 00:25:15,915 - INFO -  Data on https://turkishnetworktimes.com/msb-suriye-harekat-alaninda-649-terorist-etkisiz-hale-getirildi/ was scraped
+2023-12-03 00:25:15,920 - INFO -  Thread 419is completed in 4.860680103302002 second.
+2023-12-03 00:25:16,100 - INFO -  Data on https://turkishnetworktimes.com/abd-husilerin-bolgesindeki-ihalar-vuruldu/ was scraped
+2023-12-03 00:25:16,105 - INFO -  Thread 420is completed in 5.045093536376953 second.
+2023-12-03 00:25:16,276 - INFO -  Data on https://turkishnetworktimes.com/ukraynanin-hava-savunmasi-icin-yeni-savunma-paketi/ was scraped
+2023-12-03 00:25:16,283 - INFO -  Thread 421is completed in 5.223375082015991 second.
+2023-12-03 00:25:16,512 - INFO -  Data on https://turkishnetworktimes.com/new-york-valisi-koprudeki-patlama-teror-eylemi-degil/ was scraped
+2023-12-03 00:25:16,519 - INFO -  Thread 422is completed in 5.459344148635864 second.
+2023-12-03 00:25:16,704 - INFO -  Data on https://turkishnetworktimes.com/unlu-oyuncudan-duraklama-oncesindeki-israil-saldirilarina-tepki/ was scraped
+2023-12-03 00:25:16,710 - INFO -  Thread 423is completed in 5.649874448776245 second.
+2023-12-03 00:25:16,910 - INFO -  Data on https://turkishnetworktimes.com/unlu-markalarin-internet-sitelerini-taklit-edip-oltalama-yontemiyle-2-milyon-tl-dolandirdilar/ was scraped
+2023-12-03 00:25:16,917 - INFO -  Thread 424is completed in 5.857465028762817 second.
+2023-12-03 00:25:17,091 - INFO -  Data on https://turkishnetworktimes.com/eskisehirde-eylem-hazirligindaki-5-teror-suphelisi-gozaltina-alindi/ was scraped
+2023-12-03 00:25:17,097 - INFO -  Thread 425is completed in 6.0372350215911865 second.
+2023-12-03 00:25:17,097 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:25:22,606 - INFO -  Data on https://turkishnetworktimes.com/bilecikte-14-kopegin-olumunde-gozaltina-alinan-5-supheli-adliyede/ was scraped
+2023-12-03 00:25:22,614 - INFO -  Thread 426is completed in 0.5138163566589355 second.
+2023-12-03 00:25:23,764 - INFO -  Data on https://turkishnetworktimes.com/canakkalede-101-kacak-gocmen-yakalandi/ was scraped
+2023-12-03 00:25:23,771 - INFO -  Thread 427is completed in 1.6707849502563477 second.
+2023-12-03 00:25:24,090 - INFO -  Data on https://turkishnetworktimes.com/kucukcekmecede-gasp-kamerada/ was scraped
+2023-12-03 00:25:24,098 - INFO -  Thread 428is completed in 1.9983899593353271 second.
+2023-12-03 00:25:24,313 - INFO -  Data on https://turkishnetworktimes.com/sitede-fahis-aidat-artisina-tepki/ was scraped
+2023-12-03 00:25:24,321 - INFO -  Thread 429is completed in 2.2212917804718018 second.
+2023-12-03 00:25:24,656 - INFO -  Data on https://turkishnetworktimes.com/bakan-goktas-kadina-karsi-siddet-bir-insanlik-sucudur/ was scraped
+2023-12-03 00:25:24,662 - INFO -  Thread 430is completed in 2.562410831451416 second.
+2023-12-03 00:25:24,920 - INFO -  Data on https://turkishnetworktimes.com/iremi-8-kursunla-olduren-esine-agirlastirilmis-muebbet-hapis-cezasi/ was scraped
+2023-12-03 00:25:24,924 - INFO -  Thread 431is completed in 2.8244566917419434 second.
+2023-12-03 00:25:26,239 - INFO -  Data on https://turkishnetworktimes.com/polis-takip-ettigi-yankesicileri-sucustu-yakaladi-o-anlar-kamerada/ was scraped
+2023-12-03 00:25:26,245 - INFO -  Thread 432is completed in 4.145378112792969 second.
+2023-12-03 00:25:26,451 - INFO -  Data on https://turkishnetworktimes.com/sultanbeylide-minibusun-carptigi-hafif-ticari-arac-su-kanalina-uctu/ was scraped
+2023-12-03 00:25:26,458 - INFO -  Thread 433is completed in 4.357785940170288 second.
+2023-12-03 00:25:26,703 - INFO -  Data on https://turkishnetworktimes.com/yeniden-degerleme-orani-2023-icin-yuzde-5846-olarak-tespit-edildi/ was scraped
+2023-12-03 00:25:26,709 - INFO -  Thread 434is completed in 4.609599590301514 second.
+2023-12-03 00:25:26,964 - INFO -  Data on https://turkishnetworktimes.com/bagcilarda-otomobil-tasiyan-tir-alt-gecide-sikisti/ was scraped
+2023-12-03 00:25:26,970 - INFO -  Thread 435is completed in 4.870244979858398 second.
+2023-12-03 00:25:27,165 - INFO -  Data on https://turkishnetworktimes.com/diyarbakirda-yapilmasi-planlanan-yuruyus-yasaklandi/ was scraped
+2023-12-03 00:25:27,172 - INFO -  Thread 436is completed in 5.072546482086182 second.
+2023-12-03 00:25:27,426 - INFO -  Data on https://turkishnetworktimes.com/otomobil-once-yayaya-ardindan-beton-direge-carpti-1-olu-2-yarali/ was scraped
+2023-12-03 00:25:27,432 - INFO -  Thread 437is completed in 5.332670211791992 second.
+2023-12-03 00:25:27,641 - INFO -  Data on https://turkishnetworktimes.com/msb-irakin-kuzeyinde-17-hedef-imha-edildi-cok-sayida-terorist-etkisiz-hale-getirildi/ was scraped
+2023-12-03 00:25:27,648 - INFO -  Thread 438is completed in 5.548218727111816 second.
+2023-12-03 00:25:27,864 - INFO -  Data on https://turkishnetworktimes.com/yolyemezler-cetesinden-22-kisi-tutuklandi/ was scraped
+2023-12-03 00:25:27,870 - INFO -  Thread 439is completed in 5.769912481307983 second.
+2023-12-03 00:25:28,076 - INFO -  Data on https://turkishnetworktimes.com/coplukte-bulunan-kemiklerin-3-yildir-kayip-olan-gencogluna-ait-oldugu-saptandi/ was scraped
+2023-12-03 00:25:28,082 - INFO -  Thread 440is completed in 5.981895685195923 second.
+2023-12-03 00:25:28,305 - INFO -  Data on https://turkishnetworktimes.com/muzisyen-onur-senerin-oldurulmesi-davasinda-istinaf-mahkemesinde-karar-aciklandi/ was scraped
+2023-12-03 00:25:28,312 - INFO -  Thread 441is completed in 6.211781024932861 second.
+2023-12-03 00:25:28,525 - INFO -  Data on https://turkishnetworktimes.com/kadina-yonelik-siddetle-mucadeleye-iliskin-cumhurbaskanligi-genelgesi-resmi-gazetede/ was scraped
+2023-12-03 00:25:28,531 - INFO -  Thread 442is completed in 6.4312543869018555 second.
+2023-12-03 00:25:28,733 - INFO -  Data on https://turkishnetworktimes.com/kadikoy-d-100de-ticari-taksi-bariyere-carpti-1-yarali/ was scraped
+2023-12-03 00:25:28,739 - INFO -  Thread 443is completed in 6.6387927532196045 second.
+2023-12-03 00:25:28,933 - INFO -  Data on https://turkishnetworktimes.com/silivride-sozlu-tartisma-bicakli-kavgaya-donustu-1-yarali/ was scraped
+2023-12-03 00:25:28,940 - INFO -  Thread 444is completed in 6.839978218078613 second.
+2023-12-03 00:25:29,168 - INFO -  Data on https://turkishnetworktimes.com/ankarada-otobus-soforu-ile-kadin-surucunun-sollama-tartismasi-kamerada/ was scraped
+2023-12-03 00:25:29,174 - INFO -  Thread 445is completed in 7.074221134185791 second.
+2023-12-03 00:25:29,536 - INFO -  Data on https://turkishnetworktimes.com/bakan-isikhandan-azerbaycanda-resmi-temaslar/ was scraped
+2023-12-03 00:25:29,542 - INFO -  Thread 446is completed in 7.4419121742248535 second.
+2023-12-03 00:25:29,800 - INFO -  Data on https://turkishnetworktimes.com/katar-disisleri-bakanligindan-insani-duraklama-anlasmasi-aciklamasi/ was scraped
+2023-12-03 00:25:29,807 - INFO -  Thread 447is completed in 7.7071428298950195 second.
+2023-12-03 00:25:30,052 - INFO -  Data on https://turkishnetworktimes.com/bakan-fidan-londrada-ingiliz-mevkidasi-cameron-ile-gorustu/ was scraped
+2023-12-03 00:25:30,061 - INFO -  Thread 448is completed in 7.960801124572754 second.
+2023-12-03 00:25:30,305 - INFO -  Data on https://turkishnetworktimes.com/karaya-oturan-geminin-murettebatindan-1-kisi-kaldigi-otelde-oldu/ was scraped
+2023-12-03 00:25:30,311 - INFO -  Thread 449is completed in 8.211178302764893 second.
+2023-12-03 00:25:30,542 - INFO -  Data on https://turkishnetworktimes.com/bassavci-yeldan-kadina-karsi-siddet-eskisehirde-yuzde-30-azaldi/ was scraped
+2023-12-03 00:25:30,548 - INFO -  Thread 450is completed in 8.448750495910645 second.
+2023-12-03 00:25:30,549 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:25:35,921 - INFO -  Data on https://turkishnetworktimes.com/batmanda-ogrenciler-sehit-ogretmen-aybuke-yalcinin-filmini-izledi/ was scraped
+2023-12-03 00:25:35,927 - INFO -  Thread 451is completed in 0.374798059463501 second.
+2023-12-03 00:25:36,474 - INFO -  Data on https://turkishnetworktimes.com/bakan-yerlikaya-3-ilde-teror-orgutu-mensubu-39-supheli-yakalandi/ was scraped
+2023-12-03 00:25:36,481 - INFO -  Thread 452is completed in 0.9288196563720703 second.
+2023-12-03 00:25:36,718 - INFO -  Data on https://turkishnetworktimes.com/evde-silahla-vurulan-gulcanin-olumuyle-ilgili-gozaltina-alinan-polis-serbest/ was scraped
+2023-12-03 00:25:36,724 - INFO -  Thread 453is completed in 1.1726481914520264 second.
+2023-12-03 00:25:37,804 - INFO -  Data on https://turkishnetworktimes.com/meteoroloji-valilik-ve-akomdan-pes-pese-uyarilar/ was scraped
+2023-12-03 00:25:37,812 - INFO -  Thread 454is completed in 2.260350227355957 second.
+2023-12-03 00:25:38,064 - INFO -  Data on https://turkishnetworktimes.com/etkin-pismanlik-icin-dedesinin-kabrine-uyusturucu-sakladigini-itiraf-eden-saniga-15-yil-hapis/ was scraped
+2023-12-03 00:25:38,069 - INFO -  Thread 455is completed in 2.5169334411621094 second.
+2023-12-03 00:25:38,315 - INFO -  Data on https://turkishnetworktimes.com/spilin-yaban-hayati-fotokapanda/ was scraped
+2023-12-03 00:25:38,322 - INFO -  Thread 456is completed in 2.7702269554138184 second.
+2023-12-03 00:25:38,584 - INFO -  Data on https://turkishnetworktimes.com/konyaalti-sahilinde-balik-olumleri/ was scraped
+2023-12-03 00:25:38,591 - INFO -  Thread 457is completed in 3.0387938022613525 second.
+2023-12-03 00:25:38,921 - INFO -  Data on https://turkishnetworktimes.com/sabiha-gokcen-havalimanindan-yapilacak-bazi-ucuslar-iptal-oldu/ was scraped
+2023-12-03 00:25:38,926 - INFO -  Thread 458is completed in 3.3745782375335693 second.
+2023-12-03 00:25:39,193 - INFO -  Data on https://turkishnetworktimes.com/sultangazide-liseli-genci-agir-yaralayan-dayak-supheli-adliyeye-sevk-edildi/ was scraped
+2023-12-03 00:25:39,199 - INFO -  Thread 459is completed in 3.647547483444214 second.
+2023-12-03 00:25:39,463 - INFO -  Data on https://turkishnetworktimes.com/bakan-ozhaseki-yerinde-donusume-245-bin-basvuru-yapildi/ was scraped
+2023-12-03 00:25:39,469 - INFO -  Thread 460is completed in 3.917639970779419 second.
+2023-12-03 00:25:39,914 - INFO -  Data on https://turkishnetworktimes.com/para-balyalari-ile-goruntu-paylasan-sosyal-medya-fenomeni-teror-orgutu-uyeliginden-gozaltina-alindi/ was scraped
+2023-12-03 00:25:39,923 - INFO -  Thread 461is completed in 4.371493816375732 second.
+2023-12-03 00:25:40,273 - INFO -  Data on https://turkishnetworktimes.com/denizlideki-tur-otobusu-kazasinda-olu-sayisi-3e-cikti/ was scraped
+2023-12-03 00:25:40,280 - INFO -  Thread 462is completed in 4.727905750274658 second.
+2023-12-03 00:25:40,657 - INFO -  Data on https://turkishnetworktimes.com/ak-parti-grup-baskani-guler-calisan-emeklilere-de-5-bin-tl-verilmesine-iliskin-detayli-bir-calisma-var/ was scraped
+2023-12-03 00:25:40,663 - INFO -  Thread 463is completed in 5.11143684387207 second.
+2023-12-03 00:25:41,019 - INFO -  Data on https://turkishnetworktimes.com/meteorolojiden-antalya-icin-cifte-uyari/ was scraped
+2023-12-03 00:25:41,027 - INFO -  Thread 464is completed in 5.475110054016113 second.
+2023-12-03 00:25:41,289 - INFO -  Data on https://turkishnetworktimes.com/kayalar-davasinda-savcidan-sorusturma-genisletilsin-talebi/ was scraped
+2023-12-03 00:25:41,296 - INFO -  Thread 465is completed in 5.744106292724609 second.
+2023-12-03 00:25:41,621 - INFO -  Data on https://turkishnetworktimes.com/kamyonetini-durdurup-kendisini-takip-eden-kopege-cisimle-vurup-kacti/ was scraped
+2023-12-03 00:25:41,629 - INFO -  Thread 466is completed in 6.0774149894714355 second.
+2023-12-03 00:25:42,065 - INFO -  Data on https://turkishnetworktimes.com/kazada-olen-polis-memleketinde-son-yolculuguna-ugurlandi/ was scraped
+2023-12-03 00:25:42,071 - INFO -  Thread 467is completed in 6.519525051116943 second.
+2023-12-03 00:25:42,396 - INFO -  Data on https://turkishnetworktimes.com/yolyemezlerin-gizli-bolmelerde-ele-gecirilen-silahlari/ was scraped
+2023-12-03 00:25:42,402 - INFO -  Thread 468is completed in 6.850552797317505 second.
+2023-12-03 00:25:42,796 - INFO -  Data on https://turkishnetworktimes.com/kis-uykusuna-yatmayan-ayilar-kovanlara-dadandi/ was scraped
+2023-12-03 00:25:42,802 - INFO -  Thread 469is completed in 7.250674724578857 second.
+2023-12-03 00:25:43,015 - INFO -  Data on https://turkishnetworktimes.com/bakan-bayraktar-irakta-turk-sirketleri-ile-bir-araya-geldi/ was scraped
+2023-12-03 00:25:43,020 - INFO -  Thread 470is completed in 7.468567848205566 second.
+2023-12-03 00:25:43,250 - INFO -  Data on https://turkishnetworktimes.com/bakan-isikhan-azerbaycanli-mevkidasi-babayev-ile-gorustu/ was scraped
+2023-12-03 00:25:43,256 - INFO -  Thread 471is completed in 7.704134464263916 second.
+2023-12-03 00:25:43,497 - INFO -  Data on https://turkishnetworktimes.com/bakanlik-turkiyeyi-10-ayda-ziyaret-eden-turist-sayisi-502-milyonu-asti/ was scraped
+2023-12-03 00:25:43,504 - INFO -  Thread 472is completed in 7.952505111694336 second.
+2023-12-03 00:25:43,821 - INFO -  Data on https://turkishnetworktimes.com/bakan-ersoy-turizmde-dunyanin-super-ligindeyiz/ was scraped
+2023-12-03 00:25:43,826 - INFO -  Thread 473is completed in 8.274403810501099 second.
+2023-12-03 00:25:44,124 - INFO -  Data on https://turkishnetworktimes.com/antalyada-kaza-3-yasindaki-mustafa-poyraz-oldu-8-yarali/ was scraped
+2023-12-03 00:25:44,131 - INFO -  Thread 474is completed in 8.579627513885498 second.
+2023-12-03 00:25:44,503 - INFO -  Data on https://turkishnetworktimes.com/hafif-ticari-arac-sarampole-devrildi-1-olu-3-yarali/ was scraped
+2023-12-03 00:25:44,510 - INFO -  Thread 475is completed in 8.958101034164429 second.
+2023-12-03 00:25:44,510 - INFO - 5 SECOND COOLDOWN
+2023-12-03 00:25:49,968 - INFO -  Data on https://turkishnetworktimes.com/diyarbakirda-3-kisinin-oldugu-kavganin-sebebi-yol-isgali-cikti/ was scraped
+2023-12-03 00:25:49,975 - INFO -  Thread 476is completed in 0.4631199836730957 second.
+2023-12-03 00:25:50,275 - INFO -  Data on https://turkishnetworktimes.com/mardinde-silahli-kavga-1i-muhtar-4-yarali/ was scraped
+2023-12-03 00:25:50,282 - INFO -  Thread 477is completed in 0.7695538997650146 second.
+2023-12-03 00:25:51,426 - INFO -  Data on https://turkishnetworktimes.com/cocuklarini-cop-eve-terk-eden-anne-ve-babaya-1-yil-15er-gun-hapis/ was scraped
+2023-12-03 00:25:51,431 - INFO -  Thread 478is completed in 1.919478416442871 second.
+2023-12-03 00:25:52,255 - INFO -  Data on https://turkishnetworktimes.com/hamile-esine-cinsel-saldiri-davasinda-is-adamina-4-yil-2-ay-hapis/ was scraped
+2023-12-03 00:25:52,263 - INFO -  Thread 479is completed in 2.750704050064087 second.
+2023-12-03 00:25:52,548 - INFO -  Data on https://turkishnetworktimes.com/bilecikte-14-kopegin-olu-bulunmasina-4-gozalti/ was scraped
+2023-12-03 00:25:52,554 - INFO -  Thread 480is completed in 3.042433023452759 second.
+2023-12-03 00:25:52,800 - INFO -  Data on https://turkishnetworktimes.com/gaziantepte-41-kilo-uyusturucuya-1-tutuklama/ was scraped
+2023-12-03 00:25:52,809 - INFO -  Thread 481is completed in 3.297186851501465 second.
+2023-12-03 00:25:53,037 - INFO -  Data on https://turkishnetworktimes.com/izmirde-kundaklandigi-one-surulen-is-yeri-yandi/ was scraped
+2023-12-03 00:25:53,043 - INFO -  Thread 482is completed in 3.5308523178100586 second.
+2023-12-03 00:25:53,294 - INFO -  Data on https://turkishnetworktimes.com/tuzlada-suruculer-tekme-tokat-kavga-etti/ was scraped
+2023-12-03 00:25:53,300 - INFO -  Thread 483is completed in 3.7885234355926514 second.
+2023-12-03 00:25:53,606 - INFO -  Data on https://turkishnetworktimes.com/avcilarda-motosiklet-hirsizligi-kamerada/ was scraped
+2023-12-03 00:25:53,613 - INFO -  Thread 484is completed in 4.101478815078735 second.
+2023-12-03 00:25:53,852 - INFO -  Data on https://turkishnetworktimes.com/istanbulda-teror-operasyonu-38-gozalti/ was scraped
+2023-12-03 00:25:53,859 - INFO -  Thread 485is completed in 4.347177505493164 second.
+2023-12-03 00:25:54,173 - INFO -  Data on https://turkishnetworktimes.com/sultangazide-is-merkezinde-hirsizlik-kamerada/ was scraped
+2023-12-03 00:25:54,180 - INFO -  Thread 486is completed in 4.6681067943573 second.
+2023-12-03 00:25:54,402 - INFO -  Data on https://turkishnetworktimes.com/mersinde-yasa-disi-bahis-operasyonu-4-gozalti/ was scraped
+2023-12-03 00:25:54,409 - INFO -  Thread 487is completed in 4.896769285202026 second.
+2023-12-03 00:25:54,647 - INFO -  Data on https://turkishnetworktimes.com/otomobilin-carptigi-behiye-17-gun-sonra-yasamini-yitirdi/ was scraped
+2023-12-03 00:25:54,653 - INFO -  Thread 488is completed in 5.141005992889404 second.
+2023-12-03 00:25:54,920 - INFO -  Data on https://turkishnetworktimes.com/kocasinin-olumunden-serviste-calisan-hostesi-sorumlu-tuttu/ was scraped
+2023-12-03 00:25:54,926 - INFO -  Thread 489is completed in 5.4136621952056885 second.
+2023-12-03 00:25:55,149 - INFO -  Data on https://turkishnetworktimes.com/aylik-yuzde-30-faizle-borc-verip-odemeyenlerin-maaslarina-haciz-koydurmuslar/ was scraped
+2023-12-03 00:25:55,155 - INFO -  Thread 490is completed in 5.643432378768921 second.
+2023-12-03 00:25:55,432 - INFO -  Data on https://turkishnetworktimes.com/bakan-bayraktar-irak-petrol-bakani-abdulgani-ile-gorustu/ was scraped
+2023-12-03 00:25:55,439 - INFO -  Thread 491is completed in 5.92741847038269 second.
+2023-12-03 00:25:55,720 - INFO -  Data on https://turkishnetworktimes.com/bodrumda-restoran-yangini/ was scraped
+2023-12-03 00:25:55,726 - INFO -  Thread 492is completed in 6.21384334564209 second.
+2023-12-03 00:25:55,957 - INFO -  Data on https://turkishnetworktimes.com/ogrencisinin-oldurdugu-okul-mudurunun-esi-ogretmenler-gunu-programinda/ was scraped
+2023-12-03 00:25:55,963 - INFO -  Thread 493is completed in 6.451347827911377 second.
+2023-12-03 00:25:56,266 - INFO -  Data on https://turkishnetworktimes.com/diyarbakirda-aranan-75-yasindaki-alzheimer-hastasi-olu-bulundu/ was scraped
+2023-12-03 00:25:56,272 - INFO -  Thread 494is completed in 6.75970721244812 second.
+2023-12-03 00:25:56,492 - INFO -  Data on https://turkishnetworktimes.com/edirnede-saglik-personelini-silahla-tehdit-eden-sanik-ozur-dileyip-helallik-istedi/ was scraped
+2023-12-03 00:25:56,499 - INFO -  Thread 495is completed in 6.987091779708862 second.
+2023-12-03 00:25:56,744 - INFO -  Data on https://turkishnetworktimes.com/ankarada-yaklasik-25-milyon-tllik-kacak-tibbi-malzeme-ele-gecirildi/ was scraped
+2023-12-03 00:25:56,750 - INFO -  Thread 496is completed in 7.238515138626099 second.
+2023-12-03 00:25:57,000 - INFO -  Data on https://turkishnetworktimes.com/depremde-osmaniyede-105-kisinin-hayatini-kaybettigi-bilge-sitesi-davasinda-4-tutuklama/ was scraped
+2023-12-03 00:25:57,009 - INFO -  Thread 497is completed in 7.497082233428955 second.
+2023-12-03 00:25:57,260 - INFO -  Data on https://turkishnetworktimes.com/cakarli-trafik-magandalari-yakalandi/ was scraped
+2023-12-03 00:25:57,266 - INFO -  Thread 498is completed in 7.753624200820923 second.
+2023-12-03 00:25:57,513 - INFO -  Data on https://turkishnetworktimes.com/esini-bicaklayan-koca-kucaginda-bebegiyle-gozaltina-alindi/ was scraped
+2023-12-03 00:25:57,519 - INFO -  Thread 499is completed in 8.006896495819092 second.
+2023-12-03 00:26:00,735 - INFO -  Data on https://turkishnetworktimes.com/zonguldakta-batan-geminin-son-yardim-cagrisi-ortaya-cikti/ was scraped
+2023-12-03 00:26:00,741 - INFO -  Thread 500is completed in 11.228898525238037 second.
+2023-12-03 00:26:00,741 - INFO - 5 SECOND COOLDOWN
