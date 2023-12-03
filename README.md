@@ -25,7 +25,7 @@ kaydetme.
 * update_date kolonuna göre gruplanmış verileri gösterme.
 ### Threading Kontrolü :
 - [x] Veri çekme, analiz ve veritabanı etkileşimi süreçlerine threadingpool
-kütüphanesini entegre etme.
+kütüphanesini entegre etme. 
 - [x] Python'un threadingpool kütüphanesiyle eş zamanlı görevleri yönetme,
 senkronizasyon ve thread güvenliği sağlama.
 ### Python Yetkinliği :
@@ -50,3 +50,7 @@ başarılı kaç başarısız istek yapıldığını sunma.
 * nltk
 * requests
 * bs4
+# Yöntem
+## Threading
+*  Projede kullanılan thread yönetimi ThreadPoolExecutor kullanılarak gerçekleştirilmiştir. Aynı zamandan çok fazla request atılmaması için önce kullanılcak urller eşit parçalara ayırılıp (25), her bir parça
+içindeki elemanların tek bir seferde threadler ile çalıştırılacak ve verileri kaydedecek şekilde düzenlenmiştir. Her bir parçanın işlemi bittikten sonra 5 saniyelik bir bekleme süresi eklenmiş ve siteye yoğun istek gönderimi seyreltilmiştir.
