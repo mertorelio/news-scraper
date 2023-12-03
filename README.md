@@ -78,3 +78,13 @@ başarılı kaç başarısız istek yapıldığını sunma.
 ## Threading
 *  Projede kullanılan thread yönetimi ThreadPoolExecutor kullanılarak gerçekleştirilmiştir. Aynı zamandan çok fazla request atılmaması için önce kullanılcak urller eşit parçalara ayırılıp (25), her bir parça
 içindeki elemanların tek bir seferde threadler ile çalıştırılacak ve verileri kaydedecek şekilde düzenlenmiştir. Her bir parçanın işlemi bittikten sonra 5 saniyelik bir bekleme süresi eklenmiş ve siteye yoğun istek gönderimi seyreltilmiştir.
+
+# Kelime Analizi
+
+Kelime Bulutu
+
+![](https://github.com/mertorelio/news-scraper/blob/main/cloud.png).
+
+En sık geçen 10 kelime grafiği
+![](https://github.com/mertorelio/news-scraper/blob/main/most_common.png).
+
