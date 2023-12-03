@@ -1,38 +1,38 @@
 # Proje içeriği
-### Web Scraping:
+Web Scraping:
 - [x] URL, header, summary, text, img_url_list, publish_date ve update_date sütunları
 için belirlenmiş haber sitesinden veri çekme işlemi.
 - [x] Eş zamanlı veri çekmek için requests ve beautifulsoup kütüphanelerini
 kullanma.
 - [x] Çekilen veriyi MongoDB için yapılandırma.
-### Veri Analizi:
+ Veri Analizi:
 - [x] Metin sütununa odaklanarak çekilen veriler üzerinde analiz yapma işlemi.
 - [x] Metin sütunundaki en çok kullanılan kelimeleri belirleme ve sayma.
-### Kelime Frekansı Grafiği :
+Kelime Frekansı Grafiği :
 - [x] Metin sütunundaki en çok kullanılan kelimelerin sayısını gösteren bir grafik (ör.
 çubuk grafik, kelime bulutu) oluşturma.
-### MongoDB Entegrasyonu :
+MongoDB Entegrasyonu :
 - [x] pymongo kullanarak MongoDB veritabanına eş zamanlı bağlantılar için
 işlevler/sınıflar oluşturma.
 - [x]  URL, header, summary, text, img_url_list, publish_date ve update_date sütunları
 için veritabanını oluşturma.
-### Log Yönetimi :
+Log Yönetimi :
 - [x] Loglama işlevselliği ekleyerek, veri çekme, analiz ve veritabanı işlemleri
 sırasında olayları, hataları ve bilgileri loglama.
 İzleme ve hata ayıklama amaçları için önemli olayları, istisnaları ve kritik bilgileri
 kaydetme.
-### Veri Manipülasyonu:
+ Veri Manipülasyonu:
 * update_date kolonuna göre gruplanmış verileri gösterme.
-### Threading Kontrolü :
+Threading Kontrolü :
 - [x] Veri çekme, analiz ve veritabanı etkileşimi süreçlerine threadingpool
 kütüphanesini entegre etme. 
 - [x] Python'un threadingpool kütüphanesiyle eş zamanlı görevleri yönetme,
 senkronizasyon ve thread güvenliği sağlama.
-### Python Yetkinliği :
+Python Yetkinliği :
 - [x] PEP 8 kurallarına uygun temiz, okunabilir ve iyi açıklanmış kodlar yazma.
 - [x] Anlamlı değişken/fonksiyon isimleri kullanma ve hata yönetimi tekniklerini
 uygulama.
-### Dökümantasyon :
+Dökümantasyon :
 * README dosyasına kurulum talimatları, bağımlılıklar ve analiz edilen veri,
 kelime frekansı grafiği ve log bilgilerinin nasıl anlaşılacağı konusunda açıklamalar
 ekleme.
@@ -50,6 +50,11 @@ başarılı kaç başarısız istek yapıldığını sunma.
 * nltk
 * requests
 * bs4
+# Kurulum
+* git clone https://github.com/mertorelio/news-scraper/tree/master
+* pip install -r requirements.txt
+* python main.py
+
 # Yöntem
 ## Threading
 *  Projede kullanılan thread yönetimi ThreadPoolExecutor kullanılarak gerçekleştirilmiştir. Aynı zamandan çok fazla request atılmaması için önce kullanılcak urller eşit parçalara ayırılıp (25), her bir parça
